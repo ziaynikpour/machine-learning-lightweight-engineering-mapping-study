@@ -1,0 +1,2658 @@
+lemmatized,Frequency,Collections
+machine learning,164,Consolidated
+artificial neural network,111,Consolidated
+topology optimization,69,Consolidated
+neural network,52,Consolidated
+optimization,51,Consolidated
+genetic algorithm,48,Consolidated
+multi-objective optimization,45,Consolidated
+structural optimization,38,Consolidated
+artificial intelligence,37,Consolidated
+surrogate model,37,Consolidated
+additive manufacturing,36,Consolidated
+deep learning,36,Consolidated
+finite element analysis,30,Consolidated
+bayesian optimization,24,Consolidated
+finite element method,23,Consolidated
+crashworthiness,22,Consolidated
+mechanical property,21,Consolidated
+composite,18,Consolidated
+composite material,18,Consolidated
+ann,16,Consolidated
+structural design,16,Consolidated
+design optimization,15,Consolidated
+support vector machine,15,Consolidated
+energy absorption,14,Consolidated
+kriging,14,Consolidated
+reinforcement learning,14,Consolidated
+convolutional neural network,14,Consolidated
+3d printing,13,Consolidated
+gaussian process regression,13,Consolidated
+generative design,13,Consolidated
+bp neural network,13,Consolidated
+buckling,12,Consolidated
+deep neural network,12,Consolidated
+lattice structure,11,Consolidated
+inverse design,11,Consolidated
+structure optimization,11,Consolidated
+optimal design,11,Consolidated
+thin-walled structure,10,Consolidated
+lightweight design,10,Consolidated
+surrogate modeling,10,Consolidated
+structural health monitoring,10,Consolidated
+particle swarm optimization,10,Consolidated
+optimization design,9,Consolidated
+finite element,8,Consolidated
+principal component analysis,8,Consolidated
+shape optimization,8,Consolidated
+artificial neural network (ann),8,Consolidated
+design,7,Consolidated
+nsga-ii,7,Consolidated
+compressive strength,7,Consolidated
+sensitivity analysis,7,Consolidated
+multiobjective optimization,7,Consolidated
+digital twin,7,Consolidated
+numerical simulation,7,Consolidated
+finite element analysis (fea),7,Consolidated
+process parameter,7,Consolidated
+data mining,6,Consolidated
+physics-informed neural network,6,Consolidated
+metamodel,6,Consolidated
+lightweight,6,Consolidated
+fem,6,Consolidated
+fuzzy logic,6,Consolidated
+decision tree,6,Consolidated
+finite element simulation,6,Consolidated
+differential evolution,6,Consolidated
+optimization algorithm,6,Consolidated
+reliability analysis,6,Consolidated
+random forest,6,Consolidated
+vibration isolation,5,Consolidated
+electric vehicle,5,Consolidated
+genetic algorithm (ga),5,Consolidated
+cfrp,5,Consolidated
+gaussian process,5,Consolidated
+fatigue,5,Consolidated
+metamodeling,5,Consolidated
+tensile strength,5,Consolidated
+clustering,5,Consolidated
+microstructure,5,Consolidated
+design automation,5,Consolidated
+crashworthiness optimization,5,Consolidated
+structure,5,Consolidated
+principal component analysis (pca),5,Consolidated
+numerical analysis,5,Consolidated
+pso,5,Consolidated
+cfd,5,Consolidated
+sustainability,5,Consolidated
+optimized design,5,Consolidated
+classification,5,Consolidated
+ensemble learning,4,Consolidated
+modeling,4,Consolidated
+high-speed train,4,Consolidated
+lightweight structure,4,Consolidated
+residual stress,4,Consolidated
+evolution strategy,4,Consolidated
+topsis,4,Consolidated
+laser cladding,4,Consolidated
+pca,4,Consolidated
+global optimization,4,Consolidated
+polymer,4,Consolidated
+fea,4,Consolidated
+reliability,4,Consolidated
+design of experiment,4,Consolidated
+computational fluid dynamic,4,Consolidated
+hybrid method,4,Consolidated
+radial basis function,4,Consolidated
+density,4,Consolidated
+multi-criteria decision making,4,Consolidated
+optimum design,4,Consolidated
+design exploration,4,Consolidated
+k nearest neighbor,4,Consolidated
+design for additive manufacturing,4,Consolidated
+conceptual design,4,Consolidated
+generative adversarial network,4,Consolidated
+phase change material,4,Consolidated
+prediction,4,Consolidated
+rsm,4,Consolidated
+multidisciplinary design optimization,4,Consolidated
+reduced order model,4,Consolidated
+volume fraction,4,Consolidated
+simulation,4,Consolidated
+ai,4,Consolidated
+structural topology optimization,4,Consolidated
+simulated annealing,4,Consolidated
+design space exploration,4,Consolidated
+metal matrix composite,4,Consolidated
+continuum,4,Consolidated
+structural analysis,4,Consolidated
+cellular structure,3,Consolidated
+truss structure,3,Consolidated
+elastic deformation,3,Consolidated
+battery,3,Consolidated
+heat exchanger,3,Consolidated
+steel,3,Consolidated
+lithium-ion battery,3,Consolidated
+dynamic characteristic,3,Consolidated
+hierarchical structure,3,Consolidated
+compressed air energy storage,3,Consolidated
+three-dimensional printing,3,Consolidated
+optimal latin hypercube design,3,Consolidated
+training function,3,Consolidated
+multifunctional composite,3,Consolidated
+soft computing,3,Consolidated
+buckling analysis,3,Consolidated
+multilayer perceptron,3,Consolidated
+multidisciplinary design and optimization,3,Consolidated
+delamination,3,Consolidated
+level set method,3,Consolidated
+data-driven design,3,Consolidated
+theoretical prediction,3,Consolidated
+data-driven,3,Consolidated
+design for manufacturing,3,Consolidated
+carbon fiber,3,Consolidated
+multi-scale,3,Consolidated
+carbon fiber reinforced plastic,3,Consolidated
+thin-walled part,3,Consolidated
+laser powder bed fusion (lpbf),3,Consolidated
+simulation-based design,3,Consolidated
+laser powder bed fusion,3,Consolidated
+lightweight concrete,3,Consolidated
+dimension reduction,3,Consolidated
+dimensionality reduction,3,Consolidated
+shell structure,3,Consolidated
+optimisation,3,Consolidated
+hardness,3,Consolidated
+energy harvesting,3,Consolidated
+relative density,3,Consolidated
+reinforced composite,3,Consolidated
+fused deposition modelling,3,Consolidated
+fuzzy clustering,3,Consolidated
+aeroelasticity,3,Consolidated
+natural frequency,3,Consolidated
+constitutive modeling,3,Consolidated
+structural design optimization,3,Consolidated
+fatigue life,3,Consolidated
+reinforced concrete,3,Consolidated
+surrogate modelling,3,Consolidated
+alloy design,3,Consolidated
+surface roughness,3,Consolidated
+aluminum,3,Consolidated
+manufacturing,3,Consolidated
+reliability-based design optimization,3,Consolidated
+genetic algorithm optimization,3,Consolidated
+experimental verification,3,Consolidated
+rbf neural network,3,Consolidated
+functionally graded thickness,3,Consolidated
+wear behavior,3,Consolidated
+functionally graded material,3,Consolidated
+form-finding,3,Consolidated
+xgboost,3,Consolidated
+isogeometric analysis,3,Consolidated
+composite structure,3,Consolidated
+process optimization,3,Consolidated
+inverse problem,3,Consolidated
+quality control,3,Consolidated
+wind turbine,3,Consolidated
+flexible electronics,3,Consolidated
+radial basis function neural network,3,Consolidated
+finite element modeling,3,Consolidated
+finite element model,3,Consolidated
+finite element method (fem),3,Consolidated
+mechanical design,3,Consolidated
+computational modeling,3,Consolidated
+anisotropy,3,Consolidated
+soft robotics,3,Consolidated
+lpdc,3,Consolidated
+ensemble machine learning,3,Consolidated
+metamaterials,3,Consolidated
+laminate,3,Consolidated
+sandwich structure,3,Consolidated
+artificial neural network (anns),3,Consolidated
+machine tool,3,Consolidated
+intelligent design,3,Consolidated
+machine learning (ml),3,Consolidated
+machine learning algorithm,3,Consolidated
+crashworthiness design,3,Consolidated
+strength,3,Consolidated
+svm,3,Consolidated
+error analysis,3,Consolidated
+moving morphable component,3,Consolidated
+numerical modelling,2,Consolidated
+integrated optimization,2,Consolidated
+impact behavior,2,Consolidated
+decision support system,2,Consolidated
+computational mechanic,2,Consolidated
+strain sensor,2,Consolidated
+computational fluid dynamic (cfd),2,Consolidated
+structural parameter,2,Consolidated
+origami,2,Consolidated
+stress constraint,2,Consolidated
+computer vision,2,Consolidated
+computational efficiency,2,Consolidated
+solid isotropic material with penalization,2,Consolidated
+stiffness,2,Consolidated
+deep deterministic policy gradient,2,Consolidated
+structural theory,2,Consolidated
+soft sensor,2,Consolidated
+deep generative model,2,Consolidated
+numerical method,2,Consolidated
+integrated learning,2,Consolidated
+injection molding,2,Consolidated
+structure descriptor,2,Consolidated
+crystal structure,2,Consolidated
+cuf,2,Consolidated
+intelligence artificial,2,Consolidated
+intellectualization,2,Consolidated
+crash load,2,Consolidated
+stress-strain curve,2,Consolidated
+optimization technique,2,Consolidated
+nonparametric regression,2,Consolidated
+convolutional neural network (cnn),2,Consolidated
+damage prediction,2,Consolidated
+imperfection,2,Consolidated
+stress concentration,2,Consolidated
+data driven,2,Consolidated
+coupled cab,2,Consolidated
+creep,2,Consolidated
+product design,2,Consolidated
+continuum inverse kinematics,2,Consolidated
+sparrow search algorithm,2,Consolidated
+strength prediction,2,Consolidated
+structural deformation,2,Consolidated
+stacking-boosting,2,Consolidated
+structural dynamic,2,Consolidated
+intelligence system,2,Consolidated
+cylindrical shell,2,Consolidated
+non-dominated sorting genetic algorithm-iii,2,Consolidated
+impact loading,2,Consolidated
+interpretive machine learning,2,Consolidated
+concrete,2,Consolidated
+structural optimisation,2,Consolidated
+industry 4.0,2,Consolidated
+spider web structure,2,Consolidated
+information functional material,2,Consolidated
+stochastic topology,2,Consolidated
+metamaterial,2,Consolidated
+soft manipulator,2,Consolidated
+polymer composite,2,Consolidated
+powder metallurgy,2,Consolidated
+regression,2,Consolidated
+fatigue analysis,2,Consolidated
+fast charging,2,Consolidated
+reinforced concrete column,2,Consolidated
+porous material,2,Consolidated
+gene expression programming,2,Consolidated
+polyurethane foam core,2,Consolidated
+extreme gradient boosting,2,Consolidated
+experimental validation,2,Consolidated
+response surface method,2,Consolidated
+polymer matrix composite,2,Consolidated
+response surface methodology,2,Consolidated
+evaluation indicator,2,Consolidated
+fatigue performance,2,Consolidated
+polymer blend,2,Consolidated
+glass fiber-reinforced plastic,2,Consolidated
+gmdh,2,Consolidated
+ensemble,2,Consolidated
+point cloud,2,Consolidated
+engineering design,2,Consolidated
+robot,2,Consolidated
+robust design,2,Consolidated
+robust topology optimization,2,Consolidated
+plastic injection molding,2,Consolidated
+energy dissipation,2,Consolidated
+graph convolutional network,2,Consolidated
+planning,2,Consolidated
+reduced-order model,2,Consolidated
+fdm,2,Consolidated
+deep neural network (dnn),2,Consolidated
+radial inlet chamber,2,Consolidated
+product development,2,Consolidated
+forming limit curve,2,Consolidated
+process–structure–property,2,Consolidated
+fly ash,2,Consolidated
+flutter,2,Consolidated
+fluid structure interaction,2,Consolidated
+free material optimization,2,Consolidated
+flow production,2,Consolidated
+flexural strength,2,Consolidated
+quality assurance,2,Consolidated
+flexible hydrofoil,2,Consolidated
+flatwise compression strength,2,Consolidated
+flame forming,2,Consolidated
+finite element modelling,2,Consolidated
+fe model updating,2,Consolidated
+predictive modelling,2,Consolidated
+functional principal component analysis,2,Consolidated
+random forest regression,2,Consolidated
+rational design,2,Consolidated
+predictive analysis,2,Consolidated
+fiber-reinforced composite,2,Consolidated
+fiber reinforced polymer composite,2,Consolidated
+fiber orientation,2,Consolidated
+real-time optimization,2,Consolidated
+fuzzy subtraction clustering sequence sampling,2,Consolidated
+feedforward backpropagation,2,Consolidated
+ga,2,Consolidated
+recycled aggregate,2,Consolidated
+graph neural network,2,Consolidated
+energy conservation,2,Consolidated
+energy absorber,2,Consolidated
+design integration,2,Consolidated
+discrete level-set,2,Consolidated
+pattern recognition,2,Consolidated
+direct metal deposition,2,Consolidated
+digital manufacturing,2,Consolidated
+digital fabrication,2,Consolidated
+particle swarm optimization (pso),2,Consolidated
+dielectric property,2,Consolidated
+dfam,2,Consolidated
+signal monitoring,2,Consolidated
+homogenization,2,Consolidated
+honeycomb structure,2,Consolidated
+design of multiscale system,2,Consolidated
+singular value decomposition,2,Consolidated
+hot stamping,2,Consolidated
+rubberized concrete,2,Consolidated
+deposited bead morphology,2,Consolidated
+parameterized function,2,Consolidated
+parameter optimization,2,Consolidated
+size optimization,2,Consolidated
+hybrid manufacturing,2,Consolidated
+density-related topology optimization,2,Consolidated
+parameter identification,2,Consolidated
+hybrid nanocomposites,2,Consolidated
+deformation prediction,2,Consolidated
+hybrid neural network,2,Consolidated
+deformation behavior,2,Consolidated
+deformation,2,Consolidated
+hybrid-driven mechanism design,2,Consolidated
+shear wall,2,Consolidated
+isogeometric boundary element method,2,Consolidated
+doe,2,Consolidated
+shape memory polymer,2,Consolidated
+elongation,2,Consolidated
+graphene nanoplatelets,2,Consolidated
+graphical user interface,2,Consolidated
+pillar,2,Consolidated
+piezoelectric sensor,2,Consolidated
+piezoelectric,2,Consolidated
+gridshell structure,2,Consolidated
+selective laser melting,2,Consolidated
+harmony search,2,Consolidated
+head impact criterion (hic),2,Consolidated
+elastic recovery,2,Consolidated
+ego,2,Consolidated
+self-organized structure,2,Consolidated
+effective thermal conductivity,2,Consolidated
+heat line forming,2,Consolidated
+effective electrical conductivity,2,Consolidated
+heat transfer enhancement,2,Consolidated
+dynamic time warping,2,Consolidated
+performance optimization,2,Consolidated
+dynamic,2,Consolidated
+sequential monte carlo method,2,Consolidated
+dry-sliding friction,2,Consolidated
+high strength steel,2,Consolidated
+drilling,2,Consolidated
+shap value,2,Consolidated
+double-double laminate,2,Consolidated
+pearson correlation coefficient,2,Consolidated
+high-contrast composite,2,Consolidated
+structural boundary extraction,2,Consolidated
+isogrid structure,2,Consolidated
+automatic forming,2,Consolidated
+multi-objective optimization (moo),2,Consolidated
+time series data,2,Consolidated
+multi-objective optimisation,2,Consolidated
+big data,2,Consolidated
+lightweight structure design,2,Consolidated
+topology,2,Consolidated
+topology design,2,Consolidated
+multi-objective genetic algorithm,2,Consolidated
+topology optimisation,2,Consolidated
+bead geometry,2,Consolidated
+toughness,2,Consolidated
+trailing edge,2,Consolidated
+bayesian calibration,2,Consolidated
+multi-fidelity surrogate,2,Consolidated
+multi-fidelity,2,Consolidated
+backpropagation neural network,2,Consolidated
+multi-failure mode,2,Consolidated
+transverse shear modulus,2,Consolidated
+local approximate gaussian process,2,Consolidated
+long short-term memory model,2,Consolidated
+truss,2,Consolidated
+turbine blade,2,Consolidated
+moving morphable component (mmc),2,Consolidated
+bio-inspired structure,2,Consolidated
+thin-walled tube,2,Consolidated
+lightweight and crashworthiness design,2,Consolidated
+layer laminated manufacturing,2,Consolidated
+temperature,2,Consolidated
+tensile membrane structure,2,Consolidated
+carrera unified formulation,2,Consolidated
+carbon nanotube,2,Consolidated
+laser-induced graphene,2,Consolidated
+theoretical optimization,2,Consolidated
+thermal buckling,2,Consolidated
+thermal conductivity,2,Consolidated
+thermal decomposition,2,Consolidated
+thermal energy storage,2,Consolidated
+thermal performance,2,Consolidated
+thin-walled element,2,Consolidated
+thermal property,2,Consolidated
+buckling behavior,2,Consolidated
+multidisciplinary design optimization (mdo),2,Consolidated
+thermodynamics,2,Consolidated
+bp-nn,2,Consolidated
+life prediction,2,Consolidated
+thin -walled part,2,Consolidated
+thin cylindrical shell,2,Consolidated
+thin-wall component,2,Consolidated
+bionic,2,Consolidated
+turbomachinery,2,Consolidated
+low-carbon industrial,2,Consolidated
+central composite design,2,Consolidated
+motion control,2,Consolidated
+material property,2,Consolidated
+aerospace,2,Consolidated
+warpage,2,Consolidated
+mathematical modeling,2,Consolidated
+additive manufacturing (am),2,Consolidated
+wear,2,Consolidated
+adaptive sampling,2,Consolidated
+adaptive rbf neural network,2,Consolidated
+adaptive prediction,2,Consolidated
+adaptive neuro-fuzzy inference system,2,Consolidated
+mechanic,2,Consolidated
+adaptive model reduction,2,Consolidated
+mechanical behavior,2,Consolidated
+mechanical engineering,2,Consolidated
+microstructure design,2,Consolidated
+adaboost,2,Consolidated
+welding sequence optimization,2,Consolidated
+acquisition function,2,Consolidated
+mechanical testing,2,Consolidated
+acoustic emission analysis,2,Consolidated
+whale optimization algorithm,2,Consolidated
+3d simulation,2,Consolidated
+yield stress prediction,2,Consolidated
+material modelling,2,Consolidated
+mixed variable,2,Consolidated
+material informatics,2,Consolidated
+model-predictive control,2,Consolidated
+mopsoa,2,Consolidated
+mopso,2,Consolidated
+monte carlo tree search,2,Consolidated
+monte carlo simulation,2,Consolidated
+artificial neuronal network,2,Consolidated
+ultra high performance concrete,2,Consolidated
+uncertainty,2,Consolidated
+uncertainty aggregation,2,Consolidated
+uncertainty reduction,2,Consolidated
+anfis,2,Consolidated
+analytical model,2,Consolidated
+al-based metal matrix composite,2,Consolidated
+analytic hierarchy process (ahp),2,Consolidated
+model-based system engineering,2,Consolidated
+urfcs,2,Consolidated
+model validation,2,Consolidated
+model updating,2,Consolidated
+model reduction,2,Consolidated
+modal analysis,2,Consolidated
+material design,2,Consolidated
+vibration,2,Consolidated
+al-li alloy 2060,2,Consolidated
+task analysis,2,Consolidated
+force -induced deformation,2,Consolidated
+comfort-stretch,2,Consolidated
+symbolic regression,2,Consolidated
+knit fabric,2,Consolidated
+complex structure,2,Consolidated
+surrogate-based optimization,2,Consolidated
+cluster analysis,2,Consolidated
+co-design,2,Consolidated
+krylov subspace,2,Consolidated
+iterative feedback controller (ifc),2,Consolidated
+classical buckling theory,2,Consolidated
+co-pyrolysis,2,Consolidated
+multiscale,2,Consolidated
+svr,2,Consolidated
+laminated composite,2,Consolidated
+system identification,2,Consolidated
+kriging model,2,Consolidated
+laminate composite,2,Consolidated
+composite tendon,2,Consolidated
+neural network model,2,Consolidated
+structure-property relation,2,Consolidated
+cnn,2,Consolidated
+composite laminate,2,Consolidated
+substructure,2,Consolidated
+chatter stability prediction,2,Consolidated
+system design,2,Consolidated
+non-intrusive shape-topology optimization,1,Consolidated
+narrow artificial intelligence,1,Consolidated
+model-based system engineering (mbse),1,Consolidated
+polymetallic nodule miner,1,Consolidated
+polymerizer,1,Consolidated
+non-gradient optimization,1,Consolidated
+polymer-modified mortar,1,Consolidated
+polymer-matrix composite,1,Consolidated
+polymorphic uncertainty,1,Consolidated
+polymer nanocomposite dielectric,1,Consolidated
+polymer nanocomposites,1,Consolidated
+on-resistance,1,Consolidated
+polynomial regression,1,Consolidated
+modal test,1,Consolidated
+mixture of gaussian process,1,Consolidated
+modal,1,Consolidated
+porous matrix,1,Consolidated
+non-dominated sorted genetic algorithm,1,Consolidated
+porous electrode,1,Consolidated
+near-spherical shell,1,Consolidated
+modal approach,1,Consolidated
+porosity-dependent structure,1,Consolidated
+modal loss factor,1,Consolidated
+porosity prediction,1,Consolidated
+natural fiber,1,Consolidated
+mode shape expansion,1,Consolidated
+model decomposition,1,Consolidated
+polyolefin elastomer,1,Consolidated
+model design,1,Consolidated
+model identification,1,Consolidated
+model order reduction,1,Consolidated
+natural inspiration,1,Consolidated
+modeling manufacturing restriction,1,Consolidated
+polynomial regression analysis,1,Consolidated
+non-dominated sorting genetic algorithm-ii,1,Consolidated
+modular architectured material,1,Consolidated
+modified couple stress parameter,1,Consolidated
+plastic waste,1,Consolidated
+monitoring,1,Consolidated
+plastic mixture,1,Consolidated
+nanoindentation,1,Consolidated
+nanofillers,1,Consolidated
+nonlinear buckling analysis,1,Consolidated
+plastic extrusion,1,Consolidated
+nonlinear finite element method,1,Consolidated
+nonlinear structure,1,Consolidated
+nonlocal strain gradient theory,1,Consolidated
+morphological matrix,1,Consolidated
+morphological operation,1,Consolidated
+morphological optimization,1,Consolidated
+pla plus,1,Consolidated
+morphology,1,Consolidated
+most probable point,1,Consolidated
+pla,1,Consolidated
+pitch control,1,Consolidated
+moth flame optimization algorithm,1,Consolidated
+pin–fin,1,Consolidated
+nanofabrication,1,Consolidated
+nanocomposites,1,Consolidated
+molten pool width,1,Consolidated
+ply drop-off,1,Consolidated
+modified palm oil,1,Consolidated
+molecular weight prediction,1,Consolidated
+mixture design,1,Consolidated
+polymer alloy,1,Consolidated
+modular neural network,1,Consolidated
+non-minimal shape,1,Consolidated
+modular-topology optimization,1,Consolidated
+polylactic acid,1,Consolidated
+polyethylene terephthalate,1,Consolidated
+point cloud processing,1,Consolidated
+modularisation,1,Consolidated
+modularization,1,Consolidated
+nanoscale,1,Consolidated
+nonlinear,1,Consolidated
+modularized weight matrix,1,Consolidated
+point cloud neural network,1,Consolidated
+mogwo,1,Consolidated
+point angle,1,Consolidated
+poe,1,Consolidated
+pod,1,Consolidated
+molecular dynamic,1,Consolidated
+pmm (progressive meta-model),1,Consolidated
+plywood composite,1,Consolidated
+non-dominated genetic algorithm,1,Consolidated
+post-buckling,1,Consolidated
+non-destructive testing,1,Consolidated
+nearly orthogonal latin hypercube sampling,1,Consolidated
+micro-tomography,1,Consolidated
+printed circuit board (pcb),1,Consolidated
+micro-turbomachinery,1,Consolidated
+microchannel,1,Consolidated
+principal stress line,1,Consolidated
+microchannel heatsink,1,Consolidated
+micromechanical modeling,1,Consolidated
+micromechanics,1,Consolidated
+microplastics,1,Consolidated
+microstructural analysis,1,Consolidated
+price optimization,1,Consolidated
+prestressed steel structure,1,Consolidated
+pressure-less sintering,1,Consolidated
+microstructural evolution,1,Consolidated
+pressure loss,1,Consolidated
+neural network surrogate,1,Consolidated
+preliminary structural design,1,Consolidated
+preform optimization,1,Consolidated
+neural network reparameterization,1,Consolidated
+neural network regression,1,Consolidated
+neural style transfer,1,Consolidated
+printing,1,Consolidated
+probabilistic design,1,Consolidated
+probabilistic generation,1,Consolidated
+mg-mn-based alloy,1,Consolidated
+metamodel-based design,1,Consolidated
+metamodels,1,Consolidated
+metastructure,1,Consolidated
+processing variable,1,Consolidated
+processing modeling,1,Consolidated
+processing map,1,Consolidated
+metastructures optimization,1,Consolidated
+process window,1,Consolidated
+process planning,1,Consolidated
+mg-zx30 alloy,1,Consolidated
+micro-structural,1,Consolidated
+mged,1,Consolidated
+micro beam,1,Consolidated
+micro heat pipe array,1,Consolidated
+process monitoring,1,Consolidated
+neural network-based surrogate,1,Consolidated
+micro-curved shell lattice fcc lattice covering layer structure,1,Consolidated
+process design,1,Consolidated
+probability density function,1,Consolidated
+probability box,1,Consolidated
+microstructure analysis,1,Consolidated
+neuro-mechanical network,1,Consolidated
+microstructure evaluation,1,Consolidated
+powder-scale modeling,1,Consolidated
+predicted structural parameter,1,Consolidated
+precision casting,1,Consolidated
+negative poisson’s ratio,1,Consolidated
+milling force,1,Consolidated
+power prediction,1,Consolidated
+milling simulation,1,Consolidated
+negative poisson's ratio,1,Consolidated
+power electronics,1,Consolidated
+minimum oil film thickness,1,Consolidated
+mirror,1,Consolidated
+nems/mems,1,Consolidated
+nodal based shape optimisation,1,Consolidated
+mist cooling,1,Consolidated
+negative curvature hollow core fiber,1,Consolidated
+postbuckling,1,Consolidated
+mixed mode bending,1,Consolidated
+mixed spring beam element,1,Consolidated
+nanocomposite,1,Consolidated
+ported shroud,1,Consolidated
+node design,1,Consolidated
+military specification,1,Consolidated
+mil-std-810,1,Consolidated
+microstructure evolution,1,Consolidated
+prediction of impact deformation,1,Consolidated
+microstructure modelling,1,Consolidated
+microstructure quantification,1,Consolidated
+neural network method,1,Consolidated
+neural network (nn)-based surrogate model,1,Consolidated
+predictive modeling,1,Consolidated
+neuronal network,1,Consolidated
+neural field,1,Consolidated
+new research paradigm,1,Consolidated
+nickel rich cathode material,1,Consolidated
+nickel-based superalloy,1,Consolidated
+miga-mmfd,1,Consolidated
+neo-hookean material,1,Consolidated
+prediction of deformation,1,Consolidated
+microstructures,1,Consolidated
+microwave design,1,Consolidated
+mid process,1,Consolidated
+prediction model,1,Consolidated
+mid-surface,1,Consolidated
+miga,1,Consolidated
+prediction accuracy,1,Consolidated
+pineapple rind,1,Consolidated
+nonproportional loading,1,Consolidated
+pin-fin,1,Consolidated
+numerical heat transfer,1,Consolidated
+multidisciplinary design optimal,1,Consolidated
+numerical calulation,1,Consolidated
+multidisciplinary design optimization director (mdod),1,Consolidated
+multidisciplinary optimization design,1,Consolidated
+pallet rack,1,Consolidated
+packaging,1,Consolidated
+pack carburizing,1,Consolidated
+oxygen-free copper strip,1,Consolidated
+multifidelity,1,Consolidated
+multiscale topology optimization,1,Consolidated
+parallel t-shaped thin-walled part,1,Consolidated
+multiscale finite element analysis,1,Consolidated
+overlay sampling uniform design,1,Consolidated
+multifunctional,1,Consolidated
+overall heat transfer coefficient,1,Consolidated
+ovality,1,Consolidated
+multifunctional metamaterials,1,Consolidated
+multiscale design,1,Consolidated
+multifunctional property,1,Consolidated
+osfd,1,Consolidated
+numerical approach,1,Consolidated
+multidisciplinary design and analysis,1,Consolidated
+multiscale analysis,1,Consolidated
+parametric design,1,Consolidated
+parametric design optimization,1,Consolidated
+multi-principal-element alloy system,1,Consolidated
+multi‐criteria decision analysis,1,Consolidated
+parametric design model,1,Consolidated
+nsga-iii algorithm,1,Consolidated
+multi-scale modeling,1,Consolidated
+nuclear system design,1,Consolidated
+multi-scale modelling,1,Consolidated
+multi-scale optimization,1,Consolidated
+multi-scale simulation,1,Consolidated
+parameter correlation,1,Consolidated
+parameterized microstructures,1,Consolidated
+multi-scale structural optimization,1,Consolidated
+multistage machining process,1,Consolidated
+multi-source heterogeneous data,1,Consolidated
+multi-strand helical structure,1,Consolidated
+multi-task machine learning,1,Consolidated
+multi-working condition,1,Consolidated
+multiaxial fatigue life estimation,1,Consolidated
+multicriteria optimization,1,Consolidated
+orthotropy,1,Consolidated
+orthotropic steel deck,1,Consolidated
+parametric modeling,1,Consolidated
+optimal transport,1,Consolidated
+multiobjective particle swarm optimization,1,Consolidated
+optimization of cutting parameter,1,Consolidated
+optimization method,1,Consolidated
+multiphase material topology optimization,1,Consolidated
+optimization inverse problem,1,Consolidated
+multiphysics,1,Consolidated
+multiple surrogate model,1,Consolidated
+multiple load combination,1,Consolidated
+olefin polymerization,1,Consolidated
+multiple performance characteristic index (mpci),1,Consolidated
+optimization problem,1,Consolidated
+optimal process parameter,1,Consolidated
+multiple population,1,Consolidated
+optimal design of structural compliance,1,Consolidated
+multiple resonant frequency,1,Consolidated
+on-line monitoring,1,Consolidated
+optimal,1,Consolidated
+optical monitoring,1,Consolidated
+optical fiber design,1,Consolidated
+multiple response surface method,1,Consolidated
+optimization of technological factor,1,Consolidated
+multiobjective optimization (moo),1,Consolidated
+multilayered laminate,1,Consolidated
+optimized weight factor,1,Consolidated
+orthogonal array,1,Consolidated
+origami tube,1,Consolidated
+origami structure,1,Consolidated
+multimaterial structure,1,Consolidated
+organic solar cell,1,Consolidated
+organic photovoltaics,1,Consolidated
+optimum selection,1,Consolidated
+multimedia visual analysis,1,Consolidated
+numerical substructure,1,Consolidated
+multimodal data,1,Consolidated
+optimization under uncertainty,1,Consolidated
+multimodal fusion,1,Consolidated
+oblique impacting,1,Consolidated
+multimodal prediction method,1,Consolidated
+multiobjective bayesian optimization,1,Consolidated
+optimize design,1,Consolidated
+off-chip interconnect,1,Consolidated
+oil palm shell,1,Consolidated
+optimize,1,Consolidated
+multiresolution finite element analysis,1,Consolidated
+multi-point multi-objective design optimization,1,Consolidated
+multi-phase composite,1,Consolidated
+nano composite (a),1,Consolidated
+multi-failure probabilistic analysis,1,Consolidated
+multi-component design,1,Consolidated
+photovoltaics,1,Consolidated
+multi-criteria optimization,1,Consolidated
+phase-field modeling,1,Consolidated
+phase-change thermal storage,1,Consolidated
+nonuniform rational b-splines,1,Consolidated
+nonuniform structure,1,Consolidated
+normal function transformation,1,Consolidated
+phase separation structure,1,Consolidated
+pgd,1,Consolidated
+physical computing,1,Consolidated
+performance validation,1,Consolidated
+performance prediction,1,Consolidated
+northeast china,1,Consolidated
+multi-fidelity gaussian process regression,1,Consolidated
+multi-fidelity kriging,1,Consolidated
+multi-fidelity model,1,Consolidated
+performance evaluation,1,Consolidated
+performance cost ratio,1,Consolidated
+performance analysis,1,Consolidated
+multi-cell thin-walled tube,1,Consolidated
+multi-cell structure,1,Consolidated
+multi-lattice structure,1,Consolidated
+physics-constrained,1,Consolidated
+moving least square,1,Consolidated
+moving morphable bar,1,Consolidated
+piezoelectric material,1,Consolidated
+nano composite,1,Consolidated
+mr damper,1,Consolidated
+piecewise-integrated composite,1,Consolidated
+one-way slab,1,Consolidated
+physics-informed model,1,Consolidated
+physics-enhanced gaussian process,1,Consolidated
+physics-based surrogate model,1,Consolidated
+nonstationary process,1,Consolidated
+mre,1,Consolidated
+physics-assisted machine learning,1,Consolidated
+multi -objective optimization,1,Consolidated
+multi objective optimization,1,Consolidated
+multi t-s fuzzy neural network,1,Consolidated
+physical constraint,1,Consolidated
+multi-agent reinforcement learning,1,Consolidated
+multi-axis milling,1,Consolidated
+multi-cell,1,Consolidated
+perforated,1,Consolidated
+multi-machine coordination,1,Consolidated
+pareto front,1,Consolidated
+particle damage,1,Consolidated
+particle swarm optimization algorithm,1,Consolidated
+multi-objective gray relational analysis (mogra),1,Consolidated
+mwcnts,1,Consolidated
+nsga- ii,1,Consolidated
+mwcnt,1,Consolidated
+particle swarm optimisation,1,Consolidated
+multi-objective optimization design,1,Consolidated
+multi-objective particle swarm optimization,1,Consolidated
+particle reinforced composite,1,Consolidated
+part feature clustering,1,Consolidated
+particle-reinforced composite,1,Consolidated
+part distortion,1,Consolidated
+pareto-optimal front,1,Consolidated
+pareto optimality,1,Consolidated
+pareto optimal front,1,Consolidated
+multi-objective reliability-based design optimization,1,Consolidated
+pareto frontier,1,Consolidated
+multi-output machine learning,1,Consolidated
+muqhs-dmfse composite model,1,Consolidated
+multi-parameter similarity prediction model,1,Consolidated
+m–k theory,1,Consolidated
+n,1,Consolidated
+perception technology,1,Consolidated
+novel,1,Consolidated
+multi-material lightweight structure,1,Consolidated
+pemfc,1,Consolidated
+multi-material optimization,1,Consolidated
+nacre,1,Consolidated
+multi-material structure,1,Consolidated
+multi-material topology optimization,1,Consolidated
+pearson correlation analysis,1,Consolidated
+neural networking,1,Consolidated
+multi-morphology origami,1,Consolidated
+pcld,1,Consolidated
+particulate composite,1,Consolidated
+novel steel structure,1,Consolidated
+multi-objective bayesian optimization,1,Consolidated
+pc-kriging,1,Consolidated
+pbxs design,1,Consolidated
+multi-objective collaborative optimization,1,Consolidated
+pattern search technique,1,Consolidated
+multi-objective evolutionary algorithm,1,Consolidated
+path planning,1,Consolidated
+partitioned homogeneous property,1,Consolidated
+peak temperature,1,Consolidated
+(artificial neural network),1,Consolidated
+production capacity prediction,1,Consolidated
+thermal modelling,1,Consolidated
+thermal distortion prediction,1,Consolidated
+thermal elastic metamaterials,1,Consolidated
+thermal expansion,1,Consolidated
+thermal flow,1,Consolidated
+thermal load simulation,1,Consolidated
+thermal management,1,Consolidated
+thermal resistance,1,Consolidated
+thermal analysis,1,Consolidated
+thermal stress,1,Consolidated
+thermal topology optimization,1,Consolidated
+thermal-hydraulic performance,1,Consolidated
+thermal-mechanical coupling,1,Consolidated
+thermal-mechanical loading,1,Consolidated
+thermo-elastic structure,1,Consolidated
+thermal barrier coating (tbc),1,Consolidated
+thermal actuator,1,Consolidated
+thermoelectricity,1,Consolidated
+tensegrity,1,Consolidated
+targeted regulation of heat transfer,1,Consolidated
+taxonomy,1,Consolidated
+temperature control,1,Consolidated
+temperature sd,1,Consolidated
+temporary support with shield,1,Consolidated
+tendon,1,Consolidated
+tensile property,1,Consolidated
+the tensile strength,1,Consolidated
+tesla valve,1,Consolidated
+text-guidance,1,Consolidated
+textile,1,Consolidated
+tg-ftir-gc/ms,1,Consolidated
+tgsr algorithm,1,Consolidated
+the surrogate model,1,Consolidated
+thermoelectric generator efficiency,1,Consolidated
+thermogravimetric,1,Consolidated
+tower family,1,Consolidated
+time-domain spectral element method,1,Consolidated
+three-point bending loading,1,Consolidated
+three-point bending simulation,1,Consolidated
+three-roll planetary rolling,1,Consolidated
+thrust force,1,Consolidated
+ti-6al-4v titanium alloy,1,Consolidated
+tiltrotor,1,Consolidated
+tire building machine,1,Consolidated
+thin-walled steel structure,1,Consolidated
+top kerf width (tkwf),1,Consolidated
+top-hat thin-walled structure,1,Consolidated
+topological data analysis,1,Consolidated
+topology element density,1,Consolidated
+torque,1,Consolidated
+torsional fatigue,1,Consolidated
+three-dimensional magnetic flux,1,Consolidated
+thin-walled steel perforated section,1,Consolidated
+thermogravimetric analysis,1,Consolidated
+thick cylinder,1,Consolidated
+thermomechanical,1,Consolidated
+thermomechanical fatigue,1,Consolidated
+thermomechanical load,1,Consolidated
+thermomechanical optimization,1,Consolidated
+thermoplastic automated fiber placement,1,Consolidated
+thermoviscoelasticity,1,Consolidated
+thickness index,1,Consolidated
+thin-walled part processing,1,Consolidated
+thickness reduction,1,Consolidated
+thin -walled structure,1,Consolidated
+thin-wall feature,1,Consolidated
+thin-walled aircraft panel,1,Consolidated
+thin-walled column,1,Consolidated
+thin-walled lattice,1,Consolidated
+tapered tube,1,Consolidated
+tapelaying,1,Consolidated
+tall building,1,Consolidated
+structure–property relation,1,Consolidated
+structure profile,1,Consolidated
+structure selection,1,Consolidated
+structure-property,1,Consolidated
+structure-property linkage,1,Consolidated
+structure–property linkage,1,Consolidated
+structure–property linkages[maximum of 6],1,Consolidated
+stub column,1,Consolidated
+structure optimization strategy,1,Consolidated
+stylization,1,Consolidated
+su8,1,Consolidated
+sub-component testing,1,Consolidated
+subdividing the force diagram,1,Consolidated
+subspace,1,Consolidated
+substrate patterning,1,Consolidated
+structure prediction,1,Consolidated
+structure optimisation,1,Consolidated
+taguchi design of experiment,1,Consolidated
+structural reliability,1,Consolidated
+structural material design,1,Consolidated
+structural mechanic,1,Consolidated
+structural model updating,1,Consolidated
+structural optimal design,1,Consolidated
+structural optimisation framework,1,Consolidated
+structural performance,1,Consolidated
+structural repair,1,Consolidated
+structure design and optimization,1,Consolidated
+structural response,1,Consolidated
+structural safety monitoring,1,Consolidated
+structural scantling,1,Consolidated
+structural strength,1,Consolidated
+structure control,1,Consolidated
+structure design,1,Consolidated
+subthreshold swing,1,Consolidated
+supercavitation,1,Consolidated
+supersonic condition,1,Consolidated
+synergistic,1,Consolidated
+svm method,1,Consolidated
+swarm intelligence algorithm,1,Consolidated
+swarm optimization algorithm,1,Consolidated
+switched reluctance machine,1,Consolidated
+swlr,1,Consolidated
+synchronous grouting material,1,Consolidated
+synergistic effect,1,Consolidated
+supervised machine learning,1,Consolidated
+syngas fermentation,1,Consolidated
+syntactic foam,1,Consolidated
+system engineering,1,Consolidated
+system theory,1,Consolidated
+tabu search,1,Consolidated
+taguchi,1,Consolidated
+sustainable design evaluation,1,Consolidated
+sustainable concrete,1,Consolidated
+sustainable building technology,1,Consolidated
+surrogate-assisted evolutionary algorithm (ea),1,Consolidated
+surrogate-assisted evolutionary algorithm,1,Consolidated
+surrogate model methodology,1,Consolidated
+surrogate model for nonlinear analysis,1,Consolidated
+surface treatment,1,Consolidated
+surface strain,1,Consolidated
+surface residual stress,1,Consolidated
+surface mount technology (smt),1,Consolidated
+surface integrity evolution,1,Consolidated
+supporting structure of foundation pit,1,Consolidated
+support vector regression,1,Consolidated
+support vector machine regression,1,Consolidated
+support vector machine (svm),1,Consolidated
+support structure,1,Consolidated
+total mass constraint,1,Consolidated
+trace theory,1,Consolidated
+production cost reduction,1,Consolidated
+warpage deformation,1,Consolidated
+volume shrinkage,1,Consolidated
+voxel modeling,1,Consolidated
+waam,1,Consolidated
+wall assembly,1,Consolidated
+warm laser shock peening,1,Consolidated
+warpage analysis,1,Consolidated
+water absorption rate,1,Consolidated
+virtual-real fusion,1,Consolidated
+water cycle algorithm,1,Consolidated
+wave propagation,1,Consolidated
+wavelet transform,1,Consolidated
+wca,1,Consolidated
+weak formulation,1,Consolidated
+weakly coupled resonator,1,Consolidated
+viscous oil transportation,1,Consolidated
+virtual sample,1,Consolidated
+wearable device,1,Consolidated
+vehicle component,1,Consolidated
+variable-resolution design,1,Consolidated
+variable-stiffness composite,1,Consolidated
+variable-thickness integrally stiffened shell,1,Consolidated
+variational autoencoders (vae),1,Consolidated
+various thermal distribution,1,Consolidated
+vehicle,1,Consolidated
+vehicle modeling function,1,Consolidated
+virtual proving ground,1,Consolidated
+vehicle mounted energy storage battery,1,Consolidated
+very large crude carrier (vlcc),1,Consolidated
+vgg,1,Consolidated
+vibration energy harvesting,1,Consolidated
+vibration optimization,1,Consolidated
+virtual leave one out,1,Consolidated
+wear resistance,1,Consolidated
+web -post buckling resistance,1,Consolidated
+traditional optimization,1,Consolidated
+workflow,1,Consolidated
+wireless sensor network,1,Consolidated
+wlcsp,1,Consolidated
+woa-mlp,1,Consolidated
+wood frame,1,Consolidated
+wood-based material,1,Consolidated
+workability,1,Consolidated
+worn surface,1,Consolidated
+wind turbine tower,1,Consolidated
+woven fabric,1,Consolidated
+x ray diffraction,1,Consolidated
+yolov5,1,Consolidated
+yuki algorithm,1,Consolidated
+zero-defect manufacturing,1,Consolidated
+zirconium diboride,1,Consolidated
+wing design,1,Consolidated
+wind turbine blade,1,Consolidated
+web opening,1,Consolidated
+welding parameter,1,Consolidated
+web-post buckling resistance,1,Consolidated
+weight optimization,1,Consolidated
+weight reduction,1,Consolidated
+weighted sum method,1,Consolidated
+weld quality,1,Consolidated
+welding assembly property,1,Consolidated
+welding positional parameter,1,Consolidated
+wind tunnel,1,Consolidated
+wet packing density,1,Consolidated
+whole engine model,1,Consolidated
+wide bandwidth,1,Consolidated
+wideband antenna,1,Consolidated
+wild terrain,1,Consolidated
+wind load,1,Consolidated
+variable-fidelity surrogate model,1,Consolidated
+variable gradient tube,1,Consolidated
+variable blank holder force trajectory,1,Consolidated
+tssa-lssvm,1,Consolidated
+triply periodic minimal surface,1,Consolidated
+triply periodic minimal surface (tpms),1,Consolidated
+triply periodic minimal surface structure,1,Consolidated
+truss optimization,1,Consolidated
+tsai -wu,1,Consolidated
+tsai-hill failure criterion,1,Consolidated
+tube array configuration,1,Consolidated
+triangular tube,1,Consolidated
+turbine bladed disk,1,Consolidated
+turbine blisk,1,Consolidated
+turbine trailing edge,1,Consolidated
+turbocharger,1,Consolidated
+turbocompressor design,1,Consolidated
+turbulent flow,1,Consolidated
+triboelectric nanogenerator,1,Consolidated
+trellis frame,1,Consolidated
+"v-shaped rc folded plate deep learning,",1,Consolidated
+transient optimization,1,Consolidated
+training,1,Consolidated
+trajectory planning,1,Consolidated
+transfer learning,1,Consolidated
+transfer learning based variable-fidelity surrogate model (tl-vfsm),1,Consolidated
+transfer reinforcement learning,1,Consolidated
+transformer bushing,1,Consolidated
+transmission line,1,Consolidated
+tree-structured parzen estimator,1,Consolidated
+transmission line tower,1,Consolidated
+transmission tower,1,Consolidated
+transmitter,1,Consolidated
+transpiration cooling,1,Consolidated
+treatment,1,Consolidated
+tree structure,1,Consolidated
+turning,1,Consolidated
+tversky similarity function,1,Consolidated
+twisted-octet lattice,1,Consolidated
+unet,1,Consolidated
+uncertain input distribution,1,Consolidated
+uncertainty calibration and quantification,1,Consolidated
+uncertainty propagation,1,Consolidated
+uncertainty quantification and propagation,1,Consolidated
+uncertainty-integrated and machine learning-based surrogate modeling,1,Consolidated
+unconfined compressive strength,1,Consolidated
+unet++,1,Consolidated
+two-dimensional to three-dimensional digital reconstruction of morphology,1,Consolidated
+uniaxial compression,1,Consolidated
+uniaxial compressive strength,1,Consolidated
+uniaxial forging,1,Consolidated
+unified function of objective,1,Consolidated
+unsupervised machine learning,1,Consolidated
+uv radiation,1,Consolidated
+umbrella,1,Consolidated
+ultrasonic test,1,Consolidated
+ultrasonic nanocrystalline surface modification,1,Consolidated
+ultra-thin package,1,Consolidated
+ultra-low reynolds number,1,Consolidated
+ultra-high-temperature-ceramics (uhtcs),1,Consolidated
+ultra-high-strength steel (uhss),1,Consolidated
+ultra-high-performance concrete,1,Consolidated
+ultra-high performance concrete (uhpc),1,Consolidated
+ultimate tesnile force,1,Consolidated
+ultimate tensile strength (uts),1,Consolidated
+ultimate strength,1,Consolidated
+uav,1,Consolidated
+tws-smc,1,Consolidated
+two-stage aging,1,Consolidated
+two-phase material,1,Consolidated
+two-directional functionally graded (2d-fg) beam,1,Consolidated
+structural layout design,1,Consolidated
+structural integrity,1,Consolidated
+structural form-finding,1,Consolidated
+robust optimization,1,Consolidated
+ribbed triple-tube heat exchanger,1,Consolidated
+ring tensile test,1,Consolidated
+risk optimization,1,Consolidated
+rnn-foboa,1,Consolidated
+robot crossbeam module,1,Consolidated
+robotic cutting,1,Consolidated
+robustness metric,1,Consolidated
+rheology,1,Consolidated
+roll-out solar array,1,Consolidated
+roller,1,Consolidated
+rotor blade,1,Consolidated
+rotorcraft airfoil optimization,1,Consolidated
+rsm (response surface method),1,Consolidated
+rsw joint of multiple sheet,1,Consolidated
+rib feature recognition,1,Consolidated
+rheological behavior,1,Consolidated
+saddlepoint approximation,1,Consolidated
+response surface optimization,1,Consolidated
+resnet-50,1,Consolidated
+resonance frequency,1,Consolidated
+resource supply,1,Consolidated
+response surface,1,Consolidated
+response surface method (rsm),1,Consolidated
+response surface model,1,Consolidated
+restricted boltzmann machine,1,Consolidated
+review and perspective,1,Consolidated
+reticulated trapezoidal flow field,1,Consolidated
+reusability,1,Consolidated
+reusable model,1,Consolidated
+reuse,1,Consolidated
+reverse engineering,1,Consolidated
+reverse thrust blade,1,Consolidated
+rubber aggregate concrete,1,Consolidated
+safety,1,Consolidated
+structural dynamic performance,1,Consolidated
+sensitivity,1,Consolidated
+self-organizing map,1,Consolidated
+sem,1,Consolidated
+semantic segmentation,1,Consolidated
+semi,1,Consolidated
+semi-rigidity,1,Consolidated
+semi-supervised learning,1,Consolidated
+separated model based optimization,1,Consolidated
+self-compacting concrete,1,Consolidated
+separation method,1,Consolidated
+seq2seq model,1,Consolidated
+sequential approximate optimization,1,Consolidated
+sequential approximation optimization,1,Consolidated
+sequential deterministic optimization,1,Consolidated
+sequential minimal optimization,1,Consolidated
+self-consistent field theory,1,Consolidated
+self-adaption deep learning,1,Consolidated
+safety alert,1,Consolidated
+satisficing robust solution,1,Consolidated
+salinity,1,Consolidated
+salp swarm algorithm,1,Consolidated
+sandwich,1,Consolidated
+sandwich-structured composite,1,Consolidated
+sao (sequential approximation optimization),1,Consolidated
+sap2000-oapi,1,Consolidated
+scenario simulation,1,Consolidated
+self organizing feature map,1,Consolidated
+scientific machine learning,1,Consolidated
+scissor lift platform,1,Consolidated
+seam tracking,1,Consolidated
+segment deformation,1,Consolidated
+segmental structure,1,Consolidated
+selective laser melting (slm),1,Consolidated
+resin transfer molding,1,Consolidated
+residual fatigue life,1,Consolidated
+renewable energy,1,Consolidated
+radial basis function neural network (rbfnn),1,Consolidated
+quantum pso algorithm,1,Consolidated
+quasi-static,1,Consolidated
+quasi-static indentation,1,Consolidated
+quasi-static loading,1,Consolidated
+radial arrangement,1,Consolidated
+radial basis function network,1,Consolidated
+random field,1,Consolidated
+quality assurance (qa),1,Consolidated
+random forest (rf) classification,1,Consolidated
+random forest algorithm,1,Consolidated
+random variable,1,Consolidated
+ratio data,1,Consolidated
+rbdo,1,Consolidated
+rbf (radial basis function),1,Consolidated
+quantifying production effort,1,Consolidated
+qualification of optimization,1,Consolidated
+remote handling,1,Consolidated
+pruned sparse fuzzy neural network,1,Consolidated
+production engineering,1,Consolidated
+progressive damage,1,Consolidated
+property,1,Consolidated
+property prediction,1,Consolidated
+proprioception,1,Consolidated
+propylene,1,Consolidated
+pseudo-labels,1,Consolidated
+qfn,1,Consolidated
+pso method,1,Consolidated
+psp linkage,1,Consolidated
+pump spindle assembly,1,Consolidated
+pvt-optimization,1,Consolidated
+python library,1,Consolidated
+q-learning,1,Consolidated
+rc corbel,1,Consolidated
+rdl pattern,1,Consolidated
+rdo (robust design optimization),1,Consolidated
+relaxation,1,Consolidated
+reinforced earth wall,1,Consolidated
+reinforced lightweight soil,1,Consolidated
+reinforced patch,1,Consolidated
+reinforcement learning (rl),1,Consolidated
+reinforcement ratio,1,Consolidated
+related failure mode,1,Consolidated
+relaxation ratio,1,Consolidated
+re-entrant auxetic structure,1,Consolidated
+reliability -based design optimization,1,Consolidated
+reliability optimization,1,Consolidated
+reliability with confidence,1,Consolidated
+reliability-based design optimisation,1,Consolidated
+reliability-based topology optimization,1,Consolidated
+reliability-based wind design,1,Consolidated
+reinforced cement concrete beam,1,Consolidated
+regression model,1,Consolidated
+regression analysis (ra),1,Consolidated
+regression analysis,1,Consolidated
+redundant,1,Consolidated
+reduction of waste,1,Consolidated
+reduced design space,1,Consolidated
+redox flow battery,1,Consolidated
+red mud,1,Consolidated
+recurrent neural network,1,Consolidated
+recrystallization annealing,1,Consolidated
+reconfigurable structure,1,Consolidated
+reconfigurable antenna,1,Consolidated
+recognition of solder joint,1,Consolidated
+real-time topology optimization,1,Consolidated
+reactor pressure vessel,1,Consolidated
+reactive powder concrete (rpc),1,Consolidated
+serial robot,1,Consolidated
+serpentine,1,Consolidated
+serpentine channel water-cooled plate,1,Consolidated
+statistical index,1,Consolidated
+static analysis,1,Consolidated
+static stiffness,1,Consolidated
+static strength,1,Consolidated
+statical testing,1,Consolidated
+statistical analysis,1,Consolidated
+statistical approach,1,Consolidated
+statistical method,1,Consolidated
+staggered structure,1,Consolidated
+statistical uncertainty,1,Consolidated
+steam generator,1,Consolidated
+steel fibre reinforcement,1,Consolidated
+steel joint,1,Consolidated
+steel structure,1,Consolidated
+steel structure system,1,Consolidated
+state of charge (soc),1,Consolidated
+stadium roof,1,Consolidated
+space frame structure,1,Consolidated
+speed,1,Consolidated
+space reduction,1,Consolidated
+sparse multi-objective optimization,1,Consolidated
+spatial agreement,1,Consolidated
+spatial econometric model,1,Consolidated
+spatial structure joint,1,Consolidated
+special environment application,1,Consolidated
+spoke structure,1,Consolidated
+stacking sequence,1,Consolidated
+spraying method,1,Consolidated
+srms,1,Consolidated
+ssa,1,Consolidated
+stability,1,Consolidated
+stability loss,1,Consolidated
+stacking line,1,Consolidated
+steel wind turbine tower,1,Consolidated
+stiffened panel,1,Consolidated
+stiffness matrix,1,Consolidated
+structural compliance,1,Consolidated
+stress field prediction,1,Consolidated
+stress reduction,1,Consolidated
+stress-based topology optimization,1,Consolidated
+stress-intensity factor,1,Consolidated
+stretchable antenna-based strain sensor,1,Consolidated
+stretchable electronics,1,Consolidated
+structural coupling,1,Consolidated
+stir casting,1,Consolidated
+structural crashworthiness,1,Consolidated
+structural damage,1,Consolidated
+structural damage identification,1,Consolidated
+structural deformation pattern recognition,1,Consolidated
+structural design and development,1,Consolidated
+structural design and manufacturing,1,Consolidated
+stress field,1,Consolidated
+stress and displacement constraint,1,Consolidated
+stress analysis,1,Consolidated
+strengthening,1,Consolidated
+strength failure analysis,1,Consolidated
+strength design,1,Consolidated
+strength and toughness,1,Consolidated
+strain/stress tensor,1,Consolidated
+strain-controlled loading,1,Consolidated
+strain energy,1,Consolidated
+store vibration,1,Consolidated
+stochastic variance reduced gradient (svrg),1,Consolidated
+stochastic topology optimization,1,Consolidated
+stochastic microstructures,1,Consolidated
+stochastic gradient descent,1,Consolidated
+stochastic chance-constrained programming,1,Consolidated
+stochastic average gradient (sag),1,Consolidated
+space mapping,1,Consolidated
+sound insulation prediction,1,Consolidated
+set‐based design,1,Consolidated
+silicone rubber elastic button,1,Consolidated
+shrinkage deformation,1,Consolidated
+si,1,Consolidated
+si-ge alloy interfacial structure,1,Consolidated
+sic/al composite,1,Consolidated
+"silica-carbon composite, oxyacetylene",1,Consolidated
+silicon photonics,1,Consolidated
+sillover effect,1,Consolidated
+short column,1,Consolidated
+similarity measure optimization,1,Consolidated
+simp,1,Consolidated
+simple linear regression,1,Consolidated
+simufact software,1,Consolidated
+simulation-based gaussian process,1,Consolidated
+simultaneous superior stiffness and toughness,1,Consolidated
+shrinkage,1,Consolidated
+short channel effect,1,Consolidated
+sound insulation,1,Consolidated
+shear design,1,Consolidated
+sfe canister,1,Consolidated
+shallow network,1,Consolidated
+shape memory,1,Consolidated
+shape memory alloy (sma),1,Consolidated
+shape performance coupling,1,Consolidated
+shape sensing,1,Consolidated
+shear wall building model,1,Consolidated
+ship,1,Consolidated
+shell,1,Consolidated
+shell buckling,1,Consolidated
+shell construction,1,Consolidated
+shell with cut out,1,Consolidated
+shell-and-tube,1,Consolidated
+shield tunnel,1,Consolidated
+single and multi-objective shape optimization,1,Consolidated
+single point incremental collar forming (spicf),1,Consolidated
+single-sided formwork supporting system,1,Consolidated
+solid modeling,1,Consolidated
+soft magnetic composite,1,Consolidated
+soft robot design,1,Consolidated
+soft robotic system,1,Consolidated
+solar energy system,1,Consolidated
+solder alloy,1,Consolidated
+solid isotropic microstructure with penalization,1,Consolidated
+solid oxide fuel cell,1,Consolidated
+singular value decomposition (svd),1,Consolidated
+solid oxide fuel cell stack,1,Consolidated
+solid state joining,1,Consolidated
+solid state transformer,1,Consolidated
+solution annealing heat treatment,1,Consolidated
+solution space,1,Consolidated
+sound absorber,1,Consolidated
+soft actuator,1,Consolidated
+snail shell,1,Consolidated
+smpso algorithm,1,Consolidated
+smart structure,1,Consolidated
+smart composite laminate,1,Consolidated
+smart alloy,1,Consolidated
+small-scale structure,1,Consolidated
+sma,1,Consolidated
+slime mould algorithm,1,Consolidated
+sketch aided design,1,Consolidated
+sizing optimization,1,Consolidated
+size reduction,1,Consolidated
+size effect,1,Consolidated
+size,1,Consolidated
+sintering,1,Consolidated
+sintered fly ash aggregate,1,Consolidated
+sintered density,1,Consolidated
+robotic gmaw,1,Consolidated
+lightweight multifunctional metamaterials,1,Consolidated
+metal–plastic direct joining,1,Consolidated
+crystal plasticity,1,Consolidated
+crack,1,Consolidated
+crack mode,1,Consolidated
+crane,1,Consolidated
+crash-performance,1,Consolidated
+crashworthiness analysis,1,Consolidated
+crashworthiness capacity,1,Consolidated
+crashworthiness indicator,1,Consolidated
+crashworthiness optimisation,1,Consolidated
+crashworthy structure,1,Consolidated
+critical plane model,1,Consolidated
+critical soft switching,1,Consolidated
+critical velocity,1,Consolidated
+cross entropy,1,Consolidated
+cross validation,1,Consolidated
+crush signal,1,Consolidated
+coupling effect of temperature and strain rate,1,Consolidated
+coupler structure optimization,1,Consolidated
+coupler design,1,Consolidated
+cooling blade,1,Consolidated
+control variate,1,Consolidated
+controllable anisotropy,1,Consolidated
+convergence speed,1,Consolidated
+convolution neural network (cnn),1,Consolidated
+convolutional concrete beam,1,Consolidated
+convolutional neural network (cnns),1,Consolidated
+cooling technology,1,Consolidated
+cost-efficient structural design,1,Consolidated
+coordinate projection,1,Consolidated
+core structure design,1,Consolidated
+core-shell structure,1,Consolidated
+coreless linear motor,1,Consolidated
+corner modelling,1,Consolidated
+cost analysis,1,Consolidated
+crushing force,1,Consolidated
+crystallographic structure,1,Consolidated
+contact pressure,1,Consolidated
+cu-al alloy,1,Consolidated
+cylindrical stiffened shell,1,Consolidated
+cylindrical structure,1,Consolidated
+d-optimal design method,1,Consolidated
+d-optimal mixture design (domd),1,Consolidated
+da-mlp,1,Consolidated
+damage assessment,1,Consolidated
+damage detection,1,Consolidated
+damage forecasting,1,Consolidated
+damage identification,1,Consolidated
+damage mode,1,Consolidated
+damage tolerance,1,Consolidated
+damage tolerant,1,Consolidated
+damping,1,Consolidated
+data -driven framework,1,Consolidated
+data augmentation,1,Consolidated
+cylindrical shell structure,1,Consolidated
+cylindrical composite shell,1,Consolidated
+cylinder,1,Consolidated
+curved shell,1,Consolidated
+cuckoo search,1,Consolidated
+curing,1,Consolidated
+curvature,1,Consolidated
+curvature constraint,1,Consolidated
+curvature functional,1,Consolidated
+curved beam,1,Consolidated
+curvilinear stiffener,1,Consolidated
+cycling performance simulation,1,Consolidated
+curvilinearly stiffened panel,1,Consolidated
+cutout,1,Consolidated
+cutting edge profile stability,1,Consolidated
+cutting force,1,Consolidated
+cyclic hysteresis loop,1,Consolidated
+cyclic loading,1,Consolidated
+contour method,1,Consolidated
+contact force,1,Consolidated
+cobalt-free cathode,1,Consolidated
+composite structure assembly,1,Consolidated
+component,1,Consolidated
+component mode synthesis,1,Consolidated
+composite aero-structures,1,Consolidated
+composite analysis,1,Consolidated
+composite bridge deck,1,Consolidated
+composite cylindrical shell,1,Consolidated
+composite floor,1,Consolidated
+composite hat-shape,1,Consolidated
+composite lattice,1,Consolidated
+composite material optimization,1,Consolidated
+composite optimization,1,Consolidated
+composite plate,1,Consolidated
+composite sandwich structural component,1,Consolidated
+composite shaft,1,Consolidated
+composite shell,1,Consolidated
+compliant mechanism,1,Consolidated
+compliance minimization topology optimization,1,Consolidated
+complex truss,1,Consolidated
+column,1,Consolidated
+cohesive force model,1,Consolidated
+cohesive zone modeling,1,Consolidated
+cold bending centre sill,1,Consolidated
+collaborative optimization,1,Consolidated
+collapsible tubular mast (ctms),1,Consolidated
+colony initial sparsification,1,Consolidated
+combinatorial approach,1,Consolidated
+complex concentrated alloy,1,Consolidated
+combinatorial optimization algorithm,1,Consolidated
+combine surrogate model,1,Consolidated
+commercial aircraft engine,1,Consolidated
+common structural rule (csr),1,Consolidated
+competitive sampling,1,Consolidated
+complex chemical process,1,Consolidated
+composite steel–concrete beam,1,Consolidated
+composite tank,1,Consolidated
+contact analysis,1,Consolidated
+composite timoshenko beam time domain spectral element formulation,1,Consolidated
+conceptual structural design,1,Consolidated
+concrete hollow composite slab,1,Consolidated
+concrete shell,1,Consolidated
+concrete-filled steel tube,1,Consolidated
+concrete-filled steel tube (cfst),1,Consolidated
+concrete-filled steel tube arch bridge,1,Consolidated
+concurrent topology optimization,1,Consolidated
+conjugate heat transfer (cht),1,Consolidated
+connecting bracket,1,Consolidated
+constitutive model,1,Consolidated
+constitutive modelling,1,Consolidated
+constrained bayesian optimization,1,Consolidated
+constrained multi-objective optimization,1,Consolidated
+constraint handling technique,1,Consolidated
+construction,1,Consolidated
+conceptual design support,1,Consolidated
+computer-aided innovation (cai),1,Consolidated
+computer aided engineering,1,Consolidated
+compressive strength of structural lightweight concrete,1,Consolidated
+composite tube,1,Consolidated
+comprehensive learning particle swarm optimization,1,Consolidated
+compressible packing model,1,Consolidated
+compression property,1,Consolidated
+compression/impact resistance,1,Consolidated
+compressive behavior,1,Consolidated
+compressive strength prediction,1,Consolidated
+computationally expensive,1,Consolidated
+compressor,1,Consolidated
+compressor cascade,1,Consolidated
+computational design,1,Consolidated
+computational model,1,Consolidated
+computational simulation,1,Consolidated
+computational thermodynamics,1,Consolidated
+data clustering,1,Consolidated
+data coarsening,1,Consolidated
+data collection,1,Consolidated
+effective property,1,Consolidated
+dual-loop optimization,1,Consolidated
+duplex stainless steel,1,Consolidated
+durability,1,Consolidated
+dynamic constraint,1,Consolidated
+dynamic crushing,1,Consolidated
+dynamic model,1,Consolidated
+dynamic multi-objective particle swarm,1,Consolidated
+dynamic recrystallization,1,Consolidated
+dynamic strain aging,1,Consolidated
+dynamic three-point bending,1,Consolidated
+earthquake loading,1,Consolidated
+ebfnn,1,Consolidated
+ecap,1,Consolidated
+edge extraction,1,Consolidated
+effective energy storage ratio,1,Consolidated
+dual-elite population,1,Consolidated
+dual darrieus wind turbine,1,Consolidated
+drop-impact behavior,1,Consolidated
+distributed collaborative response surface method,1,Consolidated
+discharge point distribution,1,Consolidated
+discontinuous reinforced metal matrix composite,1,Consolidated
+discrete design variable,1,Consolidated
+discrete solution,1,Consolidated
+disordered metamaterials,1,Consolidated
+distortion behavior,1,Consolidated
+distributed collaborative strategy,1,Consolidated
+dqa,1,Consolidated
+distribution network,1,Consolidated
+docol 1300,1,Consolidated
+doe (design of experiments),1,Consolidated
+dogbone,1,Consolidated
+double-hull oil tanker,1,Consolidated
+double-k fracture toughness,1,Consolidated
+effective model,1,Consolidated
+effective strength surface,1,Consolidated
+data dimension reduction,1,Consolidated
+efficient global optimization,1,Consolidated
+elevated temperature,1,Consolidated
+ellipsoidal basis function neural network,1,Consolidated
+elliptical web opening,1,Consolidated
+elliptically -based web opening,1,Consolidated
+embodied carbon,1,Consolidated
+enclosure structure,1,Consolidated
+encoding,1,Consolidated
+energy,1,Consolidated
+energy absorption mechanism,1,Consolidated
+energy consumption,1,Consolidated
+energy consumption (ec),1,Consolidated
+energy demand,1,Consolidated
+energy density,1,Consolidated
+energy dissipation history,1,Consolidated
+energy efficiency,1,Consolidated
+electromechanical impedance,1,Consolidated
+electromagnetism,1,Consolidated
+electromagnetic model,1,Consolidated
+electro-mechanical behaviour,1,Consolidated
+elbow exoskeleton,1,Consolidated
+electric aircraft,1,Consolidated
+electric breakdown,1,Consolidated
+electric motor,1,Consolidated
+electrical contact,1,Consolidated
+electro-mechanical behavior,1,Consolidated
+electro-thermal analysis,1,Consolidated
+electromagnetic launch,1,Consolidated
+electrode design,1,Consolidated
+electrode material,1,Consolidated
+electrolyte,1,Consolidated
+electromagnetic compatibility,1,Consolidated
+electromagnetic force,1,Consolidated
+electromagnetic interference shielding (emi) (b),1,Consolidated
+directional orientation,1,Consolidated
+direct water cooling,1,Consolidated
+direct energy deposition,1,Consolidated
+dipole antenna,1,Consolidated
+deep feedforward neural network (dnn),1,Consolidated
+deep learning approach,1,Consolidated
+deep learning classification,1,Consolidated
+deep learning model,1,Consolidated
+deep learning neural network,1,Consolidated
+deep learning: generative adversarial network,1,Consolidated
+deep physical-informed neural network,1,Consolidated
+deep residual network (resnet),1,Consolidated
+deep-learning-based regressor,1,Consolidated
+deep-subwavelength bandgap,1,Consolidated
+defect detection,1,Consolidated
+defect predication,1,Consolidated
+deformation pattern,1,Consolidated
+delamination factor,1,Consolidated
+delamination flaw,1,Consolidated
+deep convolutional neural network,1,Consolidated
+deep convolitional neural network,1,Consolidated
+deep clustering,1,Consolidated
+data-driven computational framework,1,Consolidated
+data driven approach,1,Consolidated
+data fusion,1,Consolidated
+data mapping,1,Consolidated
+data model,1,Consolidated
+data statistic,1,Consolidated
+data-driven approach,1,Consolidated
+data-driven method,1,Consolidated
+deep belief network,1,Consolidated
+de algorithm,1,Consolidated
+de-homogenization,1,Consolidated
+de-oiled,1,Consolidated
+decision fusion strategy,1,Consolidated
+decision making,1,Consolidated
+decision support,1,Consolidated
+delta parallel manipulator,1,Consolidated
+densification,1,Consolidated
+density functional theory,1,Consolidated
+dexterity,1,Consolidated
+design theory and methodology,1,Consolidated
+design tool,1,Consolidated
+design under uncertainty,1,Consolidated
+design visualization,1,Consolidated
+desirability analysis,1,Consolidated
+desirability function,1,Consolidated
+dfmc,1,Consolidated
+design sketch,1,Consolidated
+diesel engine oil cooler cover,1,Consolidated
+differential evolution (de),1,Consolidated
+differential evolution algorithm (de),1,Consolidated
+diffuse approximation,1,Consolidated
+digital morphogenesis,1,Consolidated
+dimensional accuracy,1,Consolidated
+design tactic,1,Consolidated
+design rule,1,Consolidated
+deployable composite boom,1,Consolidated
+design history retrieval,1,Consolidated
+deployable composite structure,1,Consolidated
+deployable space structure,1,Consolidated
+deployable truss structure,1,Consolidated
+deposition height,1,Consolidated
+design allowables,1,Consolidated
+design factor,1,Consolidated
+design morphology,1,Consolidated
+design requirement,1,Consolidated
+design of laminated composite structure,1,Consolidated
+design optimization algorithm,1,Consolidated
+design parameter,1,Consolidated
+design recommendation,1,Consolidated
+design representation,1,Consolidated
+design representative,1,Consolidated
+cocoso,1,Consolidated
+co-machining,1,Consolidated
+metallocene catalyst,1,Consolidated
+artificial intelligence-aided,1,Consolidated
+anova,1,Consolidated
+ansys acp,1,Consolidated
+application discussion,1,Consolidated
+applied voltage,1,Consolidated
+approximate model,1,Consolidated
+arbitrary geometry,1,Consolidated
+arc welding,1,Consolidated
+archetype,1,Consolidated
+architected material,1,Consolidated
+architectural geometry,1,Consolidated
+architectured material,1,Consolidated
+armature,1,Consolidated
+artificial design intuition,1,Consolidated
+artificial intelligence (ai),1,Consolidated
+artificial intelligence algorithm,1,Consolidated
+ann modeling,1,Consolidated
+anisotropic prestress,1,Consolidated
+angle between subspace,1,Consolidated
+aluminum alloy tube structure,1,Consolidated
+alsn6cu-al2o3,1,Consolidated
+alsn6cu–al<sub>2</sub>o<sub>3</sub>,1,Consolidated
+aluminium,1,Consolidated
+aluminium alloy,1,Consolidated
+aluminium foam,1,Consolidated
+aluminum alloy,1,Consolidated
+aluminum connector,1,Consolidated
+anchor winch,1,Consolidated
+aluminum electrolysis process,1,Consolidated
+aluminum fluoride addition,1,Consolidated
+aluminum-copper alloy,1,Consolidated
+aluminum-rich lithium cathode,1,Consolidated
+ammonium perchlorate,1,Consolidated
+analytical target cascading,1,Consolidated
+artificial intelligence method in building design,1,Consolidated
+artificial intelligence-generated configuration,1,Consolidated
+alm (augmented lagrange multiplier),1,Consolidated
+artificial muscle,1,Consolidated
+automobile body,1,Consolidated
+automotive,1,Consolidated
+automotive crash,1,Consolidated
+automotive structure,1,Consolidated
+auxetic,1,Consolidated
+auxetic concrete foundation,1,Consolidated
+auxetics,1,Consolidated
+auxiliary sructures,1,Consolidated
+avoa,1,Consolidated
+aw2099-t8 al-li alloy,1,Consolidated
+axial and lateral impact,1,Consolidated
+axial compression,1,Consolidated
+axial extension coefficient,1,Consolidated
+axial flow fan,1,Consolidated
+axial impact,1,Consolidated
+automobile,1,Consolidated
+automation,1,Consolidated
+automatic relevance determination,1,Consolidated
+attention mechanism,1,Consolidated
+aspen plus,1,Consolidated
+assembly sequence planning,1,Consolidated
+association relationship,1,Consolidated
+astm,1,Consolidated
+asymptotic analysis,1,Consolidated
+asymptotic homogenization,1,Consolidated
+autoencoder,1,Consolidated
+automatic model modeling,1,Consolidated
+autoencoders,1,Consolidated
+automated fiber placement,1,Consolidated
+automated finite element simulation,1,Consolidated
+automated machine learning,1,Consolidated
+automated structural design,1,Consolidated
+automatic machine,1,Consolidated
+alo-mlp,1,Consolidated
+alloying element,1,Consolidated
+cnc machine tool (mt),1,Consolidated
+adaptive,1,Consolidated
+7050 aluminium alloy,1,Consolidated
+7050 aluminum alloy forging,1,Consolidated
+a356 alloy,1,Consolidated
+abaqus numerical simulation,1,Consolidated
+abductory induction mechanism,1,Consolidated
+ablation test,1,Consolidated
+abrasive wear,1,Consolidated
+accuracy,1,Consolidated
+acoustic emission,1,Consolidated
+acoustic energy harvesting,1,Consolidated
+active truss,1,Consolidated
+active-passive safety,1,Consolidated
+actuator,1,Consolidated
+adaboost classifier,1,Consolidated
+adaboost regressor,1,Consolidated
+5e analysis,1,Consolidated
+3d-metal printing,1,Consolidated
+3d-flexibility theory,1,Consolidated
+3-d printing,1,Consolidated
+(impact analysis),1,Consolidated
+(inverse parameter estimation),1,Consolidated
+(mfgpr),1,Consolidated
+-genetic algorithm,1,Consolidated
+2-point correlation function,1,Consolidated
+3-d measurement,1,Consolidated
+316l,1,Consolidated
+3d woven composite,1,Consolidated
+3d fashion design,1,Consolidated
+3d graphic static,1,Consolidated
+3d printed biomimetic material,1,Consolidated
+3d printed wick,1,Consolidated
+3d semantic segmentation,1,Consolidated
+3d shape generation,1,Consolidated
+adaptation model,1,Consolidated
+adaptive and parallel,1,Consolidated
+alloy wheel rim,1,Consolidated
+adaptive feature optimization,1,Consolidated
+aerospace engineering,1,Consolidated
+aerospace structure,1,Consolidated
+af-pue composite,1,Consolidated
+age hardening,1,Consolidated
+agglomerative clustering,1,Consolidated
+aggregated artificial neural network,1,Consolidated
+ai-based algorithm,1,Consolidated
+aigc,1,Consolidated
+aircraft structural part,1,Consolidated
+aircraft wing,1,Consolidated
+al-cu bimetal,1,Consolidated
+al-mg alloy,1,Consolidated
+al-mg-sc-zr alloy,1,Consolidated
+algorithm,1,Consolidated
+alloy system,1,Consolidated
+aeroelastic tailoring,1,Consolidated
+aeroelastic model,1,Consolidated
+aerodynamic optimization,1,Consolidated
+adhesively bonded joint,1,Consolidated
+adaptive infilling,1,Consolidated
+adaptive kriging,1,Consolidated
+adaptive material-field series-expansion,1,Consolidated
+adaptive network based fuzzy inference system (anfis),1,Consolidated
+adaptive parallel infilling strategy,1,Consolidated
+adaptive surrogate model,1,Consolidated
+adjoint method,1,Consolidated
+aerodynamic load,1,Consolidated
+adjoint sensitivity,1,Consolidated
+advanced high-strength steel,1,Consolidated
+advanced manufacturing technology,1,Consolidated
+advanced nanocomposites,1,Consolidated
+aerial building machine,1,Consolidated
+aero-engine,1,Consolidated
+b -spline,1,Consolidated
+b-pillar,1,Consolidated
+back propagation neural network,1,Consolidated
+catboost,1,Consolidated
+calphad,1,Consolidated
+camshaft bearing pair,1,Consolidated
+cantor fractal structure,1,Consolidated
+capacity fade,1,Consolidated
+carbon composite,1,Consolidated
+carbon dioxide,1,Consolidated
+carbon efficiency,1,Consolidated
+carbon fiber woven composite panel member,1,Consolidated
+carbon fiber/low melt polyaryletherketone,1,Consolidated
+carbon fibre,1,Consolidated
+carbon fibre pla,1,Consolidated
+carbon-glass fiber reinforced polymer (cgfrp),1,Consolidated
+carbon/carbon composite structure,1,Consolidated
+case study,1,Consolidated
+case-based reasoning,1,Consolidated
+cae,1,Consolidated
+cad-system,1,Consolidated
+cad cae cam–computing & information technology,1,Consolidated
+building information modeling (bim),1,Consolidated
+brep,1,Consolidated
+bridge,1,Consolidated
+bridge inspection,1,Consolidated
+bridge pier,1,Consolidated
+buckling design,1,Consolidated
+buckling pressure,1,Consolidated
+building material,1,Consolidated
+cable-supported,1,Consolidated
+bumper beam,1,Consolidated
+c,1,Consolidated
+c-section channel,1,Consolidated
+cable force predictor,1,Consolidated
+cable-stayed bridge,1,Consolidated
+cable-stayed fastening-hanging cantilever assembly,1,Consolidated
+cast component,1,Consolidated
+categorical-variable kernel,1,Consolidated
+back propagation neural network (bpnn),1,Consolidated
+catenary system,1,Consolidated
+characteristic finite strip,1,Consolidated
+characterization,1,Consolidated
+charging composition,1,Consolidated
+chemical composition,1,Consolidated
+chip thickness,1,Consolidated
+chiral auxetics,1,Consolidated
+chlorella pyrenoidosa,1,Consolidated
+circular tube,1,Consolidated
+circularity,1,Consolidated
+cladding track geometry,1,Consolidated
+classification algorithm knn,1,Consolidated
+clt theory,1,Consolidated
+cluster optimization algorithm,1,Consolidated
+clustered tensegrity structure,1,Consolidated
+clustering-based optimization,1,Consolidated
+characteristic agent,1,Consolidated
+chaos ant colony optimization,1,Consolidated
+channel-cooling structure,1,Consolidated
+centrifugal casting,1,Consolidated
+ccd,1,Consolidated
+ccfrp 3d printing,1,Consolidated
+cellular automaton,1,Consolidated
+cellular automaton method,1,Consolidated
+cellular phone folder front,1,Consolidated
+cellular solid,1,Consolidated
+ceramic particulate,1,Consolidated
+cfst column,1,Consolidated
+ceramic-matrix composite (cmcs),1,Consolidated
+cfetr hcsb blanket,1,Consolidated
+cfetr multi-purpose overloaded robot,1,Consolidated
+cfrp (carbon fiber reinforced plastic composite),1,Consolidated
+cfrp laminate,1,Consolidated
+cfrp tube,1,Consolidated
+breakdown voltage,1,Consolidated
+breakdown strength,1,Consolidated
+braiding process,1,Consolidated
+bracing direction optimization,1,Consolidated
+bead geometry optimization,1,Consolidated
+bead geometry prediction,1,Consolidated
+beam,1,Consolidated
+bearing capacity experiment,1,Consolidated
+bending collapse,1,Consolidated
+bending component,1,Consolidated
+bending deformation,1,Consolidated
+bi-direction evolutionary structural optimization,1,Consolidated
+bi-directional evolutionary optimization,1,Consolidated
+bi-fidelity method,1,Consolidated
+bi-stability,1,Consolidated
+binary-type approach,1,Consolidated
+binder,1,Consolidated
+bio-foam,1,Consolidated
+bio-inspired,1,Consolidated
+bayesian statistic,1,Consolidated
+bayesian regularized artificial neural network,1,Consolidated
+bayesian regularisation backpropagation,1,Consolidated
+bandgap,1,Consolidated
+back-propagation neural network,1,Consolidated
+backpropagation (bp) neural network,1,Consolidated
+bagging regressor,1,Consolidated
+bagging technique,1,Consolidated
+ball transfer unit-magnetorheological elastomer-based insulation system,1,Consolidated
+ball transfer unit–magnetorheological elastomer–based insulation system,1,Consolidated
+bat-bpnn,1,Consolidated
+bayesian optimization (bo) technique,1,Consolidated
+battery electric vehicle,1,Consolidated
+battery protection,1,Consolidated
+battery voltage,1,Consolidated
+battery-pack system,1,Consolidated
+bayesian estimation,1,Consolidated
+bayesian learning,1,Consolidated
+bio-inspired helicoidal,1,Consolidated
+biocomposite,1,Consolidated
+biodegradable core,1,Consolidated
+bond strength,1,Consolidated
+bistable reeled composite shell,1,Consolidated
+blasting,1,Consolidated
+block ramp,1,Consolidated
+bmi,1,Consolidated
+body-in-white,1,Consolidated
+bolted flange connection,1,Consolidated
+bonded composite repair,1,Consolidated
+birch fiber composite,1,Consolidated
+bone density prediction,1,Consolidated
+boosting technique,1,Consolidated
+bottom kerf width (bkwf),1,Consolidated
+bp artificial neural network,1,Consolidated
+bp-ga algorithm,1,Consolidated
+bpnn model,1,Consolidated
+bistable plate,1,Consolidated
+bioprinting,1,Consolidated
+bioenergy,1,Consolidated
+biomass activator,1,Consolidated
+bioethanol production,1,Consolidated
+bioinspired core,1,Consolidated
+bioinspired helicoidal composite,1,Consolidated
+bioinspired nanocomposite,1,Consolidated
+bioinspired structural material,1,Consolidated
+biomass,1,Consolidated
+biomass pellet,1,Consolidated
+bioprinted construct,1,Consolidated
+biomaterials,1,Consolidated
+biometric authentication,1,Consolidated
+biomimetic,1,Consolidated
+biomimetic core,1,Consolidated
+biomimetics,1,Consolidated
+bionic fin,1,Consolidated
+energy harvester,1,Consolidated
+energy management,1,Consolidated
+energy removable,1,Consolidated
+laminated composite plate and shell,1,Consolidated
+knowledge acquisition,1,Consolidated
+knowledge assessment,1,Consolidated
+knowledge engineering,1,Consolidated
+knowledge-based engineering (kbe),1,Consolidated
+knowledge-based system,1,Consolidated
+kresling origami,1,Consolidated
+kresling pattern,1,Consolidated
+kriging method,1,Consolidated
+kriging surrogate model,1,Consolidated
+ksm-imoco,1,Consolidated
+l-pbf,1,Consolidated
+labyrinth screw pump,1,Consolidated
+lagrange multiplier method,1,Consolidated
+lagrange with karush-kuhn-tucker condition,1,Consolidated
+laminate design,1,Consolidated
+knockdown factor,1,Consolidated
+kirchhoff–love shell theory,1,Consolidated
+kinetics,1,Consolidated
+johnson-cook material model,1,Consolidated
+iterative learning control,1,Consolidated
+iterative machine learning,1,Consolidated
+izod test,1,Consolidated
+jacket,1,Consolidated
+"jenhui chen, chang gung university, taiwan",1,Consolidated
+jet engine,1,Consolidated
+johnson–cook model,1,Consolidated
+kinetic,1,Consolidated
+joint probability distribution,1,Consolidated
+k nearest neighbor method,1,Consolidated
+k-means clustering optimizer (ko),1,Consolidated
+k-means clustering-based method,1,Consolidated
+kernel function,1,Consolidated
+kinematics,1,Consolidated
+laminate mechanic,1,Consolidated
+laminated composite shell,1,Consolidated
+isom,1,Consolidated
+laminated composite structure,1,Consolidated
+lateral-torsional buckling,1,Consolidated
+latin hypercube sampling,1,Consolidated
+lattice,1,Consolidated
+lattice core sandwich structure,1,Consolidated
+lattice design,1,Consolidated
+lattice metamaterial,1,Consolidated
+lattice metastructures,1,Consolidated
+layer laminated manufacturing (llm),1,Consolidated
+layer-by-layer design,1,Consolidated
+layered structure (a),1,Consolidated
+layered structure model,1,Consolidated
+layout optimization,1,Consolidated
+lds process,1,Consolidated
+learning,1,Consolidated
+least-square support vector regression,1,Consolidated
+lateral impact,1,Consolidated
+latent heat thermal energy storage,1,Consolidated
+laser vision,1,Consolidated
+large-pitch thread,1,Consolidated
+laminated functionally graded carbon nanotube (fg-cnt)-reinforced composite plate,1,Consolidated
+laminated object manufacturing (lom),1,Consolidated
+laminated shell,1,Consolidated
+lamination parameter,1,Consolidated
+laplace equation,1,Consolidated
+laplace prior,1,Consolidated
+large-scale sandwich structure,1,Consolidated
+laser shock peening,1,Consolidated
+large-scale steel structure,1,Consolidated
+laser additive manufacturing,1,Consolidated
+laser beam welding,1,Consolidated
+laser directed energy deposition (lded),1,Consolidated
+laser forming (lf),1,Consolidated
+laser machining,1,Consolidated
+isothermal low-cycle-fatigue test,1,Consolidated
+isogeometric analysis (iga),1,Consolidated
+energy saving,1,Consolidated
+innovation effect,1,Consolidated
+industrial design,1,Consolidated
+industrial engineering & manufacturing,1,Consolidated
+industrial structure upgrade,1,Consolidated
+industry,1,Consolidated
+industry foundation class (ifc),1,Consolidated
+infill-criteria,1,Consolidated
+infilling,1,Consolidated
+influencing factor,1,Consolidated
+information integration,1,Consolidated
+information theory,1,Consolidated
+information update,1,Consolidated
+infrared heating,1,Consolidated
+inherent defect,1,Consolidated
+inherent strain,1,Consolidated
+injection molded direct joining,1,Consolidated
+industrial automation,1,Consolidated
+industrial application,1,Consolidated
+inductor design,1,Consolidated
+improved dung beetle optimizer,1,Consolidated
+impact damage detection,1,Consolidated
+impact testing,1,Consolidated
+impeller,1,Consolidated
+imperfection sensitivity,1,Consolidated
+important region,1,Consolidated
+improved differential evolution algorithm,1,Consolidated
+improved multi-objective collaborative optimization,1,Consolidated
+individualization,1,Consolidated
+in-plane-out-of-plane separated representation,1,Consolidated
+in-process monitoring,1,Consolidated
+in718,1,Consolidated
+inclination angle,1,Consolidated
+inconel718,1,Consolidated
+indentatio,1,Consolidated
+injection molding moving plate design,1,Consolidated
+inorganic polymer concrete-filled steel tube (ipcfst),1,Consolidated
+investment casting,1,Consolidated
+inspection robot,1,Consolidated
+internal cooling,1,Consolidated
+internal force analysis,1,Consolidated
+interphase,1,Consolidated
+interpretability method,1,Consolidated
+interpretative structural modeling (ism),1,Consolidated
+intersecting joint,1,Consolidated
+interval,1,Consolidated
+interval prediction,1,Consolidated
+inverse finite method,1,Consolidated
+inverse homogenization,1,Consolidated
+inverse kinematics,1,Consolidated
+inverse lattice generator,1,Consolidated
+inverse mc constraint boundary,1,Consolidated
+inverse optimization,1,Consolidated
+inverse-deformation design,1,Consolidated
+interface strength,1,Consolidated
+interface,1,Consolidated
+interdependent parameter,1,Consolidated
+intelligent manufacturing,1,Consolidated
+instability,1,Consolidated
+instrumental formwork,1,Consolidated
+integrated computational material engineering,1,Consolidated
+integration optimization design,1,Consolidated
+intelligent algorithm,1,Consolidated
+intelligent analysis,1,Consolidated
+intelligent mix design,1,Consolidated
+intercooler,1,Consolidated
+intelligent modeling method,1,Consolidated
+intelligent optimization,1,Consolidated
+intelligent prediction,1,Consolidated
+intelligent system,1,Consolidated
+interactive network dea,1,Consolidated
+interactive reinforcement learning,1,Consolidated
+level set method (lsm),1,Consolidated
+li-ion battery module,1,Consolidated
+lichtenberg algorithm,1,Consolidated
+material-field series expansion,1,Consolidated
+manufacturing system,1,Consolidated
+manufacturing technology,1,Consolidated
+map4: demonstrate,1,Consolidated
+mapping relationship,1,Consolidated
+masonry structure,1,Consolidated
+mass centre,1,Consolidated
+material discovery,1,Consolidated
+material engineering,1,Consolidated
+material fatigue damage,1,Consolidated
+material interface,1,Consolidated
+material modeling (c),1,Consolidated
+material modeling and design,1,Consolidated
+material performance,1,Consolidated
+material property identification,1,Consolidated
+material selection,1,Consolidated
+manufacturing structure optimization,1,Consolidated
+manufacturing deviation,1,Consolidated
+manufacturing defect,1,Consolidated
+magnetic isotropy,1,Consolidated
+machining distortion,1,Consolidated
+machining optimization,1,Consolidated
+magnesium,1,Consolidated
+magnesium alloy cylindrical part with longitudinal inner rib,1,Consolidated
+magnesium composite,1,Consolidated
+magnetic field,1,Consolidated
+magneto-gel brake,1,Consolidated
+manufacturing constraint,1,Consolidated
+magneto-hyper-viscoelastic model,1,Consolidated
+magnetoelectric coupling,1,Consolidated
+magnetorheological elastomer,1,Consolidated
+manifold heat sink,1,Consolidated
+manufactured sand,1,Consolidated
+manufacturing carbon emission,1,Consolidated
+material uncertainty,1,Consolidated
+mathematical analysis,1,Consolidated
+life cycle,1,Consolidated
+matlab,1,Consolidated
+membership function,1,Consolidated
+mesh deformation,1,Consolidated
+mesh density,1,Consolidated
+mesh segmentation,1,Consolidated
+meshfree analysis,1,Consolidated
+meso-scale,1,Consolidated
+meso-structural characteristic analysis,1,Consolidated
+meta-model,1,Consolidated
+meta-model-based design optimization (mbdo),1,Consolidated
+meta-modeling,1,Consolidated
+metaheuristic,1,Consolidated
+metaheuristics,1,Consolidated
+metal foam-fin hybrid structure,1,Consolidated
+metal injection molding (mim),1,Consolidated
+metal/polymer-based composite hybrid,1,Consolidated
+mem,1,Consolidated
+melting mode,1,Consolidated
+melting,1,Consolidated
+mechanical behaviour,1,Consolidated
+matrix cracking,1,Consolidated
+maximum flow/minimum cut,1,Consolidated
+maximum stress prediction,1,Consolidated
+mcst,1,Consolidated
+mdo (multi-disciplinary optimization),1,Consolidated
+mean compliance maximization,1,Consolidated
+mechanical component,1,Consolidated
+medial mesh,1,Consolidated
+mechanical engineering design,1,Consolidated
+mechanical equipment,1,Consolidated
+mechanical property of material,1,Consolidated
+mechanical property prediction,1,Consolidated
+mechanical safety,1,Consolidated
+mechanostructures,1,Consolidated
+machining,1,Consolidated
+machine-learning,1,Consolidated
+machine learning model,1,Consolidated
+machine learning method,1,Consolidated
+lightweight material,1,Consolidated
+lightweight metastructure,1,Consolidated
+(finite element model),1,Consolidated
+lightweight sustainable design of material,1,Consolidated
+lightweight wheel design,1,Consolidated
+lightweighting,1,Consolidated
+lime rotary kiln,1,Consolidated
+limit analysis,1,Consolidated
+limit state,1,Consolidated
+linear programming,1,Consolidated
+liquid air energy storage,1,Consolidated
+liquid cooled heat dissipation structure,1,Consolidated
+liquid rocket engine,1,Consolidated
+liquid-cooled plate,1,Consolidated
+lithium battery module,1,Consolidated
+lightweight fiber-reinforced composite structure,1,Consolidated
+lightweight construction,1,Consolidated
+lightweight ceramsite aggregate,1,Consolidated
+light-weight composite,1,Consolidated
+life cycle analysis,1,Consolidated
+life cycle assessment,1,Consolidated
+life cycle sustainability assessment,1,Consolidated
+lifetime prediction,1,Consolidated
+lifted system notation,1,Consolidated
+light management,1,Consolidated
+light-weight high-entropy alloy,1,Consolidated
+lightweight brick,1,Consolidated
+lightgbm,1,Consolidated
+lightning,1,Consolidated
+lightning rod structure,1,Consolidated
+lightning transient immunity,1,Consolidated
+lightweight aggregate concrete,1,Consolidated
+lightweight auxetic structure,1,Consolidated
+lithium ion battery,1,Consolidated
+litz pcb winding design,1,Consolidated
+llm-105,1,Consolidated
+low-velocity impact,1,Consolidated
+low-carbon energy,1,Consolidated
+low-carbon transition,1,Consolidated
+low-density polyethylene,1,Consolidated
+low-density polyethylene/ni and nio,1,Consolidated
+low-fidelity model,1,Consolidated
+low-frequency dynamic,1,Consolidated
+low-velocity impact (lvi),1,Consolidated
+low-carbon design,1,Consolidated
+lower confidence bound (lcb),1,Consolidated
+ls-dyna,1,Consolidated
+lsff system,1,Consolidated
+m-k theory,1,Consolidated
+machine learning classification,1,Consolidated
+machine learning hybrid fiber-reinforced scc,1,Consolidated
+low-carbon economy,1,Consolidated
+low-carbon,1,Consolidated
+load decomposition,1,Consolidated
+long short-term memory,1,Consolidated
+load path,1,Consolidated
+load redistribution,1,Consolidated
+local buckling mode,1,Consolidated
+local reduced stiffness method,1,Consolidated
+locally linear embedding,1,Consolidated
+lolimot,1,Consolidated
+loss optimization,1,Consolidated
+low velocity impact load,1,Consolidated
+low alloy steel,1,Consolidated
+low carbon manufacturing,1,Consolidated
+low density polyethylene,1,Consolidated
+low density polyethylene (ldpe),1,Consolidated
+low profile,1,Consolidated
+low rank approximation,1,Consolidated
+image-based numerical simulation,1,Consolidated
+image processing,1,Consolidated
+ifc-based meshfree analysis,1,Consolidated
+flexural performance,1,Consolidated
+fire,1,Consolidated
+fire resistance,1,Consolidated
+firefly algorithm,1,Consolidated
+firmware,1,Consolidated
+first-visit monte-carlo method,1,Consolidated
+five-axis grinding machine,1,Consolidated
+five-axis machine tool,1,Consolidated
+five-axis-milling,1,Consolidated
+flexible al-biruni earth radius optimizer,1,Consolidated
+flexible composite,1,Consolidated
+flexible formwork,1,Consolidated
+flexible joint,1,Consolidated
+flexible structure,1,Consolidated
+flexoelectric material,1,Consolidated
+flexural,1,Consolidated
+finite element-based optimization,1,Consolidated
+finite element model modification,1,Consolidated
+finite elelment simulation,1,Consolidated
+fibre metal laminate,1,Consolidated
+fg-goeam face sheet,1,Consolidated
+fiber -reinforced plastic,1,Consolidated
+fiber composite,1,Consolidated
+fiber reinforced plastic (frp),1,Consolidated
+fiber steering,1,Consolidated
+fiber-metal laminate (fmls),1,Consolidated
+fibre-matrix interface,1,Consolidated
+finfet,1,Consolidated
+fibre-reinforced plastic,1,Consolidated
+filament extrusion,1,Consolidated
+filament winding,1,Consolidated
+film cooling,1,Consolidated
+fin,1,Consolidated
+fine-structure constant,1,Consolidated
+flexural loading,1,Consolidated
+flexural wave propagation,1,Consolidated
+friction stir welding (fsw),1,Consolidated
+flight envelope,1,Consolidated
+fourier orthogonal function,1,Consolidated
+fractional order bat optimization algorithm,1,Consolidated
+fracture prediction,1,Consolidated
+fracture toughness,1,Consolidated
+frame,1,Consolidated
+frame parameter optimization,1,Consolidated
+frame structure,1,Consolidated
+free-form deformation method,1,Consolidated
+free-form surface,1,Consolidated
+frequency analysis,1,Consolidated
+frequency optimization,1,Consolidated
+frequency response,1,Consolidated
+frequency selective surface,1,Consolidated
+friction lap welding,1,Consolidated
+friction loss,1,Consolidated
+forward swept wing,1,Consolidated
+forward prediction,1,Consolidated
+form-active structure,1,Consolidated
+flutter suppression,1,Consolidated
+flip - chip,1,Consolidated
+flow stress,1,Consolidated
+fluid analysis,1,Consolidated
+fluid-elastic instability (fei),1,Consolidated
+fluid-solid coupling,1,Consolidated
+fluid-structure interaction,1,Consolidated
+flux cored arc welding,1,Consolidated
+force,1,Consolidated
+fmincon function,1,Consolidated
+foam,1,Consolidated
+foam concrete,1,Consolidated
+foam-filled,1,Consolidated
+foam-filled tube,1,Consolidated
+folding behavior,1,Consolidated
+ffrequency prediction,1,Consolidated
+ferrite number,1,Consolidated
+fem simulation,1,Consolidated
+feedback control,1,Consolidated
+evaluation characteristic,1,Consolidated
+evolution gym,1,Consolidated
+evolutionary algorithm,1,Consolidated
+evolutionary learning,1,Consolidated
+evolved structure,1,Consolidated
+expanded perlite,1,Consolidated
+expected feasibility function,1,Consolidated
+expected improvement function,1,Consolidated
+expensive optimization problem,1,Consolidated
+expensive problem,1,Consolidated
+experimental design,1,Consolidated
+experimental modal analysis (ema),1,Consolidated
+expert system,1,Consolidated
+exploration,1,Consolidated
+explosion resistance,1,Consolidated
+error prediction,1,Consolidated
+error estimation,1,Consolidated
+eps geofoam,1,Consolidated
+engineering structural optimisation,1,Consolidated
+energy selective surface,1,Consolidated
+energy storage,1,Consolidated
+energy storage system (ess),1,Consolidated
+energy-efficient,1,Consolidated
+energy-saving,1,Consolidated
+engineering optimisation,1,Consolidated
+enhance dislocation density,1,Consolidated
+environmental pollution,1,Consolidated
+enhanced optimal brain surgeon,1,Consolidated
+enlarged pile,1,Consolidated
+ensemble of metamodels,1,Consolidated
+ensemble of surrogate,1,Consolidated
+entropy-based correlation coefficient,1,Consolidated
+env modelling,1,Consolidated
+explosive composite,1,Consolidated
+extended kalman filter,1,Consolidated
+extended multiscale finite element method,1,Consolidated
+fatigue model,1,Consolidated
+fatigue damage zone,1,Consolidated
+fatigue evaluation,1,Consolidated
+fatigue failure,1,Consolidated
+fatigue life prediction,1,Consolidated
+fatigue lifetime,1,Consolidated
+fatigue limit,1,Consolidated
+fatigue reliability,1,Consolidated
+fatigue crack growth life,1,Consolidated
+fbg sensor network,1,Consolidated
+fe analysis,1,Consolidated
+fea based welding simulation,1,Consolidated
+feature fusion,1,Consolidated
+feature-aware displacement learning,1,Consolidated
+feed,1,Consolidated
+fatigue cycle,1,Consolidated
+fatigue behavior,1,Consolidated
+extended simp,1,Consolidated
+fabrication robustness,1,Consolidated
+external load,1,Consolidated
+extreme learning machine,1,Consolidated
+extreme learning machine (elm),1,Consolidated
+extrusion temperature,1,Consolidated
+eye diagram,1,Consolidated
+fabric-reinforced structure,1,Consolidated
+face recognition,1,Consolidated
+failure prediction,1,Consolidated
+failure analysis,1,Consolidated
+failure assessment,1,Consolidated
+failure envelope,1,Consolidated
+failure index,1,Consolidated
+failure load,1,Consolidated
+failure mode,1,Consolidated
+friction stir welding,1,Consolidated
+front collector,1,Consolidated
+ifc-based bridge model,1,Consolidated
+high-strain composite,1,Consolidated
+high temperature,1,Consolidated
+high temperature thermal protection,1,Consolidated
+high throughput,1,Consolidated
+high-altitude uav,1,Consolidated
+high-density polyethylene,1,Consolidated
+high-dimensional optimization,1,Consolidated
+high-entropy alloy,1,Consolidated
+high-entropy material,1,Consolidated
+high-frequency impedance model,1,Consolidated
+high-level synthesis,1,Consolidated
+high-performance,1,Consolidated
+high-performance computing,1,Consolidated
+high-performance steel,1,Consolidated
+high-pressure tank,1,Consolidated
+high-resolution design,1,Consolidated
+high strength steel beam,1,Consolidated
+high strength aluminium alloy,1,Consolidated
+high speed train gearbox,1,Consolidated
+heat spreading,1,Consolidated
+half-heusler,1,Consolidated
+hardening behavior,1,Consolidated
+hdqm,1,Consolidated
+heat dissipation structure,1,Consolidated
+heat resistance,1,Consolidated
+heat sink,1,Consolidated
+herringbone grooved journal bearing,1,Consolidated
+high dimensional design space exploration,1,Consolidated
+heterogeneous microstructure,1,Consolidated
+heuristic optimization algorithm,1,Consolidated
+hexagonal trigger,1,Consolidated
+hibiscus rosa-sinensis,1,Consolidated
+hierarchical design space reduction,1,Consolidated
+hierarchical system,1,Consolidated
+high-rise building,1,Consolidated
+high-temperature polymer,1,Consolidated
+frontal impact,1,Consolidated
+high-throughput,1,Consolidated
+hybrid optimization,1,Consolidated
+hybrid rbf-based artificial neural network,1,Consolidated
+hybrid rbf-rsm model,1,Consolidated
+hybrid technique,1,Consolidated
+hydrodynamic characteristic,1,Consolidated
+hydrodynamic optimization,1,Consolidated
+hydrodynamic performance,1,Consolidated
+hydrodynamic response,1,Consolidated
+hydrogen storage,1,Consolidated
+hydrogen tank,1,Consolidated
+hyperbolic paraboloid (hypar),1,Consolidated
+hyperelasticity,1,Consolidated
+hyperparameter tuning,1,Consolidated
+ice-class propeller,1,Consolidated
+ifc extension,1,Consolidated
+hybrid nanofluid,1,Consolidated
+hybrid meta-model,1,Consolidated
+hybrid mechanic model,1,Consolidated
+homogenisation method,1,Consolidated
+hog,1,Consolidated
+hollow carbon nanosphere,1,Consolidated
+hollow conductor,1,Consolidated
+hollow glass microspheres,1,Consolidated
+hollow inorganic microsphere,1,Consolidated
+hollow turbine blade,1,Consolidated
+homology,1,Consolidated
+hybrid joint,1,Consolidated
+horizontal continuous casting,1,Consolidated
+hot deformation mechanism,1,Consolidated
+hot flow forming,1,Consolidated
+hot-spot stress,1,Consolidated
+human motion recognition,1,Consolidated
+hybrid composite,1,Consolidated
+gwo,1,Consolidated
+gurson model,1,Consolidated
+gun turret,1,Consolidated
+guided denoising diffusion,1,Consolidated
+gas-bearings,1,Consolidated
+gaussian mixture model,1,Consolidated
+gaussian process (gp),1,Consolidated
+gaussian process regression model,1,Consolidated
+gbm,1,Consolidated
+gear ring processing,1,Consolidated
+generalized regression neural network,1,Consolidated
+generative ai,1,Consolidated
+generative ai for design,1,Consolidated
+generative bridge design,1,Consolidated
+genetic algorithm based artificial neural network (ga-ann),1,Consolidated
+genetic programming,1,Consolidated
+geometric compensation,1,Consolidated
+geometric constraint,1,Consolidated
+geometric deep learning,1,Consolidated
+gas turbine blade,1,Consolidated
+gas turbine,1,Consolidated
+gans,1,Consolidated
+functionally graded spherical shell,1,Consolidated
+frp composite,1,Consolidated
+frp strengthened concrete beam,1,Consolidated
+fuel cell,1,Consolidated
+full penetration,1,Consolidated
+function surface,1,Consolidated
+functionally graded foam,1,Consolidated
+furnace,1,Consolidated
+ga-bp neural network,1,Consolidated
+fused filament fabrication,1,Consolidated
+fuzzy clustering method,1,Consolidated
+fuzzy metric optimization,1,Consolidated
+fuzzy neural network of regression,1,Consolidated
+fuzzy-logic,1,Consolidated
+félix candela,1,Consolidated
+geometric deviation prediction,1,Consolidated
+geometric feature recognition,1,Consolidated
+geometric imperfection,1,Consolidated
+graphene nanoparticles composite,1,Consolidated
+grain size evaluation and az31 magnesium alloy,1,Consolidated
+grain structure,1,Consolidated
+graph embedding,1,Consolidated
+graph theory,1,Consolidated
+graphene,1,Consolidated
+graphene nano-platelet,1,Consolidated
+graphene nanoplatelets (gnp),1,Consolidated
+gradient-based multiobjective optimization algorithm,1,Consolidated
+grasshopper,1,Consolidated
+gravity,1,Consolidated
+green environment,1,Consolidated
+green ultra-high performance concrete (uhpc),1,Consolidated
+grid shell structure,1,Consolidated
+gripping system,1,Consolidated
+gradient-enhanced bayesian optimization,1,Consolidated
+gradient-based approach,1,Consolidated
+geometric nonlinear,1,Consolidated
+glass microspheres,1,Consolidated
+geometric similarity,1,Consolidated
+geometry estimation,1,Consolidated
+gfrp,1,Consolidated
+glass fiber,1,Consolidated
+glass fiber-reinforced polymer (gfrp),1,Consolidated
+glass laminate aluminum reinforced epoxy (glare),1,Consolidated
+glass/polyester composite,1,Consolidated
+gradient boosting,1,Consolidated
+gndo algorithm,1,Consolidated
+graded cellular structure,1,Consolidated
+graded lattice,1,Consolidated
+graded microstructural configuration,1,Consolidated
+graded thickness,1,Consolidated
+gradient algorithm,1,Consolidated
+ε-greedy policy,1,Consolidated

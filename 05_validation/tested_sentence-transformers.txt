@@ -1,0 +1,8 @@
+sentence-transformers/all-MiniLM-L6-v2
+sentence-transformers/all-MiniLM-L12-v2
+sentence-transformers/paraphrase-MiniLM-L12-v2
+sentence-transformers/all-mpnet-base-v2
+sentence-transformers/all-distilroberta-v1
+sentence-transformers/all-roberta-large-v1
+sentence-transformers/msmarco-roberta-base-v2
+allenai/scibert_scivocab_uncased
