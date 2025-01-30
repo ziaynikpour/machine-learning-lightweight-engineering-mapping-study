@@ -1,0 +1,1207 @@
+keyword,Frequency,Cluster
+optimization,290,3
+artificial neural network,269,646
+machine learning,185,4
+topology optimization,96,125
+finite element analysis,92,291
+genetic algorithm,91,25
+composite,80,33
+surrogate model,62,59
+structural design,61,128
+structure,50,27
+additive manufacturing,43,1092
+artificial intelligence,42,260
+deep learning,41,331
+crashworthiness,37,222
+lightweight design,34,66
+alloy design,30,15
+gaussian process regression,26,194
+optimal design,25,131
+mechanical property,22,279
+printing,20,778
+numerical simulation,20,55
+support vector machine,19,273
+lattice structure,19,204
+compressive strength,18,510
+reinforcement learning,18,266
+isogeometric analysis,18,53
+particle swarm optimization,18,215
+elastic deformation,17,82
+kriging,17,289
+ann,17,108
+buckling,16,382
+inverse design,16,95
+prediction,16,23
+generative design,16,48
+laminate,16,460
+steel,15,41
+fatigue,15,47
+principal component analysis,15,183
+energy absorption,15,968
+design for manufacturing,15,12
+modeling,14,37
+multidisciplinary design optimization,14,52
+structural analysis,14,22
+polymer,14,102
+process parameter,14,224
+model,13,86
+carbon fiber reinforced plastic,13,21
+microstructure,13,302
+mechanical design,12,6
+reliability analysis,11,468
+battery,11,149
+cylindrical shell,11,62
+material modelling,11,72
+structural health monitoring,11,439
+energy conservation,11,16
+svm method,11,67
+computational modeling,10,130
+metamaterials,10,0
+response surface method,10,42
+thermal performance,10,34
+compressed air energy storage,10,175
+density,10,80
+radial basis function,10,107
+random forest,10,363
+design exploration,10,101
+nonparametric regression,9,280
+structural theory,9,29
+simulation,9,109
+reduced order model,9,396
+sensitivity analysis,9,206
+graphene nanoplatelets,9,122
+concrete,9,7
+tube,9,26
+differential evolution,9,352
+hybrid method,9,232
+system engineering,9,96
+wind turbine,8,230
+clustering,8,117
+moving morphable component,8,165
+vibration isolation,8,106
+truss structure,8,282
+electric vehicle,8,20
+dynamic characteristic,7,239
+nonproportional loading,7,78
+fatigue life,7,134
+laminated composite,7,464
+temperature,7,30
+digital twin,7,776
+design automation,7,275
+computational fluid dynamic,7,79
+singular value decomposition,7,38
+turbine blade,7,254
+embodied carbon,7,158
+ensemble learning,7,497
+mechanical testing,6,193
+wear behavior,6,133
+origami,6,584
+modal analysis,6,205
+injection molding,6,281
+graphical user interface,6,97
+intelligent design,6,63
+data mining,6,735
+sandwich structure,6,241
+surface roughness,6,65
+pearson correlation coefficient,6,293
+metamodel,6,624
+laser powder bed fusion,6,390
+polyurethane foam core,6,119
+fem,6,1203
+fuzzy logic,6,972
+simulated annealing,6,278
+fuzzy clustering,6,1
+energy harvesting,6,198
+laser cladding,6,84
+effective thermal conductivity,6,629
+signal monitoring,6,110
+adaptive sampling,6,73
+functionally graded material,6,137
+design of experiment,6,290
+decision tree,6,1175
+delamination,5,141
+composite bridge deck,5,10
+shell structure,5,923
+column,5,243
+parameter identification,5,68
+classification,5,999
+cfd,5,623
+predictive modelling,5,321
+generative adversarial network,5,560
+toughness,5,123
+functionally graded thickness,5,104
+micro beam,5,98
+machine tool,5,920
+fe model updating,5,160
+k nearest neighbor,5,768
+experimental verification,5,143
+design of multiscale system,5,328
+hybrid nanocomposites,5,425
+uncertainty,5,126
+decision making,5,448
+material design,5,147
+polyethylene terephthalate,5,40
+sustainability,5,895
+error analysis,5,383
+tensile membrane structure,5,5
+reinforced concrete,5,199
+constitutive modeling,5,374
+piezoelectric sensor,5,192
+soft robotics,5,170
+residual stress,5,247
+soft computing,5,257
+coupling,4,484
+flexible electronics,4,89
+material property,4,46
+flatwise compression strength,4,8
+thermal resistance,4,43
+aluminum,4,536
+evolution strategy,4,954
+fea,4,869
+control,4,405
+curve,4,150
+continuum inverse kinematics,4,180
+continuum,4,697
+stiffness,4,365
+magnetic flux,4,19
+ensemble,4,91
+deployable composite boom,4,13
+aerospace,4,155
+heat exchanger,4,893
+warpage,4,402
+pattern recognition,4,197
+layer laminated manufacturing,4,546
+heat transfer enhancement,4,18
+digital manufacturing,4,87
+buckling analysis,4,808
+hierarchical structure,4,517
+robot,4,39
+multifunctional composite,4,970
+high strength steel,4,191
+ultra high performance concrete,4,44
+homogenization,4,270
+stress concentration,4,252
+multistage machining process,4,94
+impact behavior,4,251
+imperfection,4,140
+anisotropy,4,557
+industrial,4,148
+parametric design,4,472
+bead geometry,4,415
+deformation behavior,4,139
+yield stress prediction,4,728
+deformation prediction,4,284
+volume fraction,4,1193
+carbon fiber,4,292
+element,4,190
+level set method,4,269
+graph convolutional network,4,443
+damage prediction,4,54
+sequential approximate optimization,4,555
+phase change material,4,311
+direct metal deposition,4,403
+dimension reduction,4,887
+ai,4,1055
+free material optimization,4,70
+glass plastic,4,189
+train,4,763
+shape memory polymer,4,318
+training function,4,261
+cellular structure,4,1025
+transfer learning,4,36
+life cycle,4,218
+carbon nanotube,4,28
+strength,4,223
+mechanism design,4,58
+electromagnetic model,3,419
+discrete,3,173
+mechanic,3,317
+welding parameter,3,121
+strength failure analysis,3,163
+stress constraint,3,519
+strength prediction,3,450
+mechanical behaviour,3,233
+steel tube,3,271
+dimensionality reduction,3,886
+doe,3,482
+strain sensor,3,937
+negative ratio,3,171
+energy absorber,3,225
+selective laser melting,3,862
+safety,3,259
+saddlepoint approximation,3,116
+hardness,3,831
+optimal transport,3,9
+krylov subspace,3,644
+adaptive prediction,3,267
+hydrodynamic characteristic,3,235
+quality assurance,3,368
+adaptive infilling,3,120
+quality control,3,1155
+impact testing,3,51
+knit fabric,3,216
+adaptive inference system,3,861
+industry,3,162
+relation,3,332
+optimization of technological factor,3,17
+reinforced cement concrete beam,3,297
+reduced design space,3,138
+acoustic emission analysis,3,534
+progressive damage,3,24
+semantic segmentation,3,61
+energy dissipation,3,538
+process planning,3,217
+wideband antenna,3,1074
+porous electrode,3,314
+space frame structure,3,92
+sorting genetic,3,377
+porous material,3,226
+solid oxide fuel cell,3,181
+solid isotropic material with penalization,3,399
+extreme gradient boosting,3,586
+factor,3,272
+prediction accuracy,3,166
+long memory model,3,445
+flutter,3,71
+fly ash,3,255
+formwork supporting system,3,473
+shear wall,3,265
+friction,3,242
+friction stir welding,3,77
+fused deposition modelling,3,1065
+gene expression programming,3,88
+printed biomimetic material,3,74
+stochastic variance reduced gradient,3,344
+point cloud,3,285
+thin part,3,176
+nonlinear structure,3,316
+swarm intelligence algorithm,3,295
+plastic extrusion,3,85
+milling force,3,135
+mixture design,3,35
+mode,3,45
+thermal actuator,3,348
+thermal buckling,3,69
+nickel rich cathode material,3,132
+composite tendon,3,541
+thermodynamics,3,178
+composite plate,3,100
+structural parameter,3,549
+performance validation,3,201
+microstructures,3,210
+morphological matrix,3,185
+morphology,3,246
+trailing edge,3,221
+transmission line,3,219
+transverse shear modulus,3,156
+triply periodic minimal surface,3,184
+multilayer perceptron,3,1204
+bionic,3,188
+biomass activator,3,31
+part,3,1030
+natural frequency,3,967
+bayesian calibration,3,136
+axial and lateral impact,3,231
+curvature,3,446
+optimization problem,3,145
+decision support system,3,760
+data driven,3,438
+approach,3,375
+web opening,3,169
+substructure,3,220
+damage detection,2,599
+lightweight ceramsite aggregate,2,388
+chatter stability prediction,2,751
+performance,2,127
+monte carlo simulation,2,1147
+optimize design,2,440
+monte carlo tree search,2,641
+characteristic analysis,2,203
+processing map,2,32
+structural boundary extraction,2,797
+aerodynamic optimization,2,274
+perforated,2,124
+central composite design,2,1159
+wireless sensor network,2,428
+processing variable,2,105
+cellular automaton,2,174
+product development,2,975
+design representation,2,50
+motion control,2,933
+carrera unified formulation,2,731
+transpiration cooling,2,115
+structural damage identification,2,213
+harmony search,2,1163
+automatic forming,2,1103
+ga,2,661
+sequential monte carlo method,2,881
+deep generative model,2,1101
+thermomechanical load,2,202
+thermoplastic automated fiber placement,2,878
+commercial aircraft engine,2,410
+thick cylinder,2,1073
+shell construction,2,648
+phase separation structure,2,2
+thickness reduction,2,90
+probabilistic design,2,353
+web buckling resistance,2,463
+thrust force,2,338
+cnn,2,659
+deep deterministic policy gradient,2,939
+shape,2,60
+shap value,2,839
+classical buckling theory,2,822
+time series data,2,1029
+liquid cooled heat dissipation structure,2,263
+linkage,2,518
+fusion,2,545
+top kerf width,2,1170
+topological data analysis,2,144
+probability density function,2,258
+optimized weight factor,2,277
+head impact criterion,2,863
+path planning,2,64
+heat line forming,2,1000
+instability,2,559
+nearly orthogonal latin hypercube sampling,2,299
+information functional material,2,1045
+related failure mode,2,420
+bayesian estimation,2,83
+structural performance,2,542
+radial inlet chamber,2,860
+automotive,2,372
+bandgap,2,856
+ball transfer insulation system,2,152
+innovation,2,112
+iterative learning control,2,262
+integrally stiffened shell,2,447
+modified palm oil,2,333
+integrated learning,2,929
+intellectualization,2,909
+intelligence system,2,766
+iterative feedback controller,2,983
+bagging regressor,2,146
+b,2,168
+parameterized function,2,918
+acquisition function,2,913
+isogeometric boundary element method,2,1037
+recycled aggregate,2,830
+deposited bead morphology,2,964
+structural strength,2,296
+big data,2,1205
+pareto front,2,350
+kernel,2,384
+buckling behavior,2,1201
+property prediction,2,407
+laser vision,2,56
+warm laser shock peening,2,509
+network,2,395
+turbomachinery,2,815
+applied voltage,2,99
+hollow glass microspheres,2,75
+particulate composite,2,512
+multimodal data,2,161
+automobile body,2,186
+hot stamping,2,621
+uncertainty aggregation,2,1113
+uncertainty propagation,2,187
+part distortion,2,57
+hydrogen storage,2,159
+multiple population,2,461
+multiple resonant frequency,2,200
+deep residual network,2,268
+impact loading,2,1141
+interval,2,469
+vehicle component,2,249
+nanocomposite,2,481
+fluid structure interaction,2,1042
+frequency selective surface,2,93
+material fatigue damage,2,412
+polyolefin elastomer,2,1022
+orthogonal array,2,157
+creep,2,1191
+synergistic,2,592
+spider web structure,2,632
+speed,2,113
+spectral element method,2,81
+crash load,2,966
+data framework,2,236
+planning,2,925
+coupler structure optimization,2,459
+material informatics,2,673
+coupled cab,2,651
+evaluation indicator,2,1049
+flow production,2,790
+sparrow search algorithm,2,885
+pla plus,2,358
+task analysis,2,934
+sound insulation prediction,2,635
+cooling technology,2,142
+mixed variable,2,798
+data statistic,2,430
+symbolic regression,2,1028
+elongation,2,987
+solar array,2,794
+electromechanical impedance,2,212
+arc welding,2,103
+drilling,2,670
+volume shrinkage,2,245
+microstructural evolution,2,11
+dynamic bending,2,49
+welding sequence optimization,2,1129
+dynamic time warping,2,802
+stiffened panel,2,240
+microchannel,2,248
+surface treatment,2,129
+mechanical behavior,2,1195
+statistical index,2,322
+ego,2,783
+analytical model,2,1088
+elastic recovery,2,688
+statistical approach,2,664
+crystal structure,2,1198
+sustainable concrete,2,14
+analytic hierarchy process,2,833
+stacking sequence,2,229
+stability,2,209
+pillar,2,615
+physical constraint,2,379
+soft sensor,2,1052
+manifold heat sink,2,172
+model validation,2,1202
+size reduction,2,214
+sintering,2,826
+computational mechanic,2,1172
+feedforward backpropagation,2,764
+artificial design intuition,2,111
+magnesium,2,207
+structure descriptor,2,872
+fiber orientation,2,1146
+wave propagation,2,427
+organic photovoltaics,2,871
+melting mode,2,253
+composite tank,2,535
+sillover effect,2,323
+flame forming,2,680
+dielectric property,2,1068
+flexible hydrofoil,2,681
+modeling manufacturing restriction,2,234
+flexural performance,2,411
+component mode synthesis,2,466
+desirability function,2,179
+sketch aided design,2,354
+compressor,2,483
+optimization under uncertainty,2,435
+computer vision,2,747
+powder metallurgy,2,749
+artificial,2,114
+soft manipulator,2,786
+fast charging,2,1171
+condition,2,294
+point angle,2,182
+pmm,1,631
+overlay sampling uniform design,1,714
+probability box,1,622
+parallel part,1,813
+organic solar cell,1,1168
+pitch control,1,950
+random field,1,506
+optimum selection,1,941
+pattern search technique,1,1019
+propeller,1,342
+pineapple rind,1,989
+rc corbel,1,306
+policy,1,118
+rbf basis,1,759
+production capacity prediction,1,665
+pressure loss,1,1151
+ported shroud,1,695
+polymetallic nodule miner,1,1079
+ratio data,1,1196
+package,1,336
+printed wick,1,709
+perception technology,1,733
+printed circuit board,1,1157
+production cost reduction,1,844
+random variable,1,1107
+pod,1,864
+precision casting,1,1006
+polymorphic uncertainty,1,704
+python library,1,904
+propylene,1,1081
+partitioned homogeneous property,1,957
+power electronics,1,852
+pruned sparse fuzzy neural network,1,527
+pallet rack,1,693
+psp linkage,1,916
+particle damage,1,938
+part feature clustering,1,1010
+porosity prediction,1,850
+packaging,1,1149
+process window,1,894
+pump spindle assembly,1,454
+pack carburizing,1,1013
+proprioception,1,771
+polylactic acid,1,1123
+planetary rolling,1,741
+parzen estimator,1,667
+plastic waste,1,1148
+pareto optimality,1,803
+poe,1,603
+performance cost ratio,1,1137
+quantifying production effort,1,610
+radial arrangement,1,1130
+pareto frontier,1,674
+oxyacetylene,1,1080
+ply,1,896
+principal stress line,1,840
+abductory induction mechanism,1,973
+rc folded plate deep,1,842
+textile,1,1020
+thermal distortion prediction,1,873
+thermal load simulation,1,1110
+thermoelectric generator efficiency,1,356
+thermoelectricity,1,835
+thermomechanical,1,700
+thickness index,1,1136
+thread,1,882
+tiltrotor,1,980
+tire building machine,1,969
+torque,1,1187
+torsional fatigue,1,948
+total mass constraint,1,1011
+tower family,1,650
+trace theory,1,944
+transfer learning based surrogate model,1,1044
+transformer bushing,1,848
+transition,1,571
+transmitter,1,903
+tree structure,1,1128
+trellis frame,1,874
+triboelectric nanogenerator,1,1185
+thermal barrier coating,1,906
+tesla valve,1,609
+tube array configuration,1,1142
+tensor,1,1161
+stylization,1,789
+subdividing the force diagram,1,613
+substrate patterning,1,787
+subthreshold swing,1,675
+superalloy,1,746
+supersonic condition,1,817
+supporting structure of foundation pit,1,694
+surface mount technology,1,942
+surface strain,1,1115
+sustainable design evaluation,1,1104
+switched reluctance machine,1,884
+synchronous grouting material,1,748
+syngas fermentation,1,753
+tabu search,1,843
+tall building,1,1180
+targeted regulation of heat transfer,1,956
+taxonomy,1,807
+temperature sd,1,1047
+temporary support with shield,1,1063
+tensegrity,1,949
+tensile property,1,717
+tsai,1,911
+turbocharger,1,995
+structure profile,1,997
+water cycle algorithm,1,1085
+weak formulation,1,739
+weakly coupled resonator,1,493
+wear resistance,1,1162
+wearable device,1,1197
+weight reduction,1,905
+weighted sum method,1,750
+weld quality,1,1061
+welding assembly property,1,796
+wet packing density,1,780
+whole engine model,1,955
+wide bandwidth,1,805
+wild terrain,1,847
+wind design,1,756
+wind load,1,1021
+wind tunnel,1,1094
+wing design,1,335
+wood frame,1,1014
+workability,1,611
+workflow,1,346
+woven composite,1,590
+x ray diffraction,1,1121
+wavelet transform,1,1165
+water absorption rate,1,1150
+turbulent flow,1,859
+wall assembly,1,1072
+turning,1,1007
+tversky similarity function,1,1106
+ultimate tesnile force,1,761
+ultrasonic nanocrystalline surface modification,1,849
+ultrasonic test,1,1186
+umbrella,1,752
+uncertain input distribution,1,1027
+uniaxial forging,1,773
+unified function of objective,1,742
+uv radiation,1,696
+variable blank holder force trajectory,1,614
+variable gradient tube,1,1156
+variational autoencoders,1,398
+vehicle modeling function,1,921
+vehicle mounted energy storage battery,1,1050
+very large crude carrier,1,991
+virtual leave one out,1,993
+virtual proving ground,1,737
+virtual sample,1,583
+viscous oil transportation,1,1056
+voxel modeling,1,1138
+structure selection,1,1100
+structural integrity,1,1144
+reactive powder concrete,1,785
+reverse thrust blade,1,1066
+reynolds number,1,1189
+rheology,1,687
+rib feature recognition,1,875
+ring tensile test,1,1181
+robot crossbeam module,1,1017
+robotic cutting,1,389
+robustness metric,1,1038
+roller,1,791
+rotorcraft airfoil optimization,1,1190
+rsw joint of multiple sheet,1,729
+rubber aggregate concrete,1,1097
+safety alert,1,1035
+salinity,1,679
+satisficing robust solution,1,1062
+scissor lift platform,1,1041
+seam tracking,1,1057
+segmental structure,1,962
+self organizing feature map,1,692
+sem,1,745
+semi,1,931
+separated model based optimization,1,1048
+review and perspective,1,653
+reverse engineering,1,1034
+series expansion,1,834
+reuse,1,867
+reactor pressure vessel,1,634
+reasoning,1,1109
+recognition of solder joint,1,705
+reconfigurable structure,1,810
+red mud,1,912
+redox flow battery,1,958
+reduction of waste,1,809
+redundant,1,1105
+reinforced earth wall,1,1192
+reinforced lightweight soil,1,899
+reinforced patch,1,1099
+relaxation,1,1119
+relaxation ratio,1,654
+reliability with confidence,1,1043
+remote handling,1,799
+resin transfer molding,1,898
+resource supply,1,1139
+restricted boltzmann machine,1,617
+reticulated trapezoidal flow field,1,1111
+reusability,1,637
+reusable model,1,888
+separated representation,1,470
+serpentine,1,1016
+structural compliance,1,917
+solid state transformer,1,838
+space mapping,1,744
+spatial agreement,1,1090
+spatial econometric model,1,1145
+spatial structure joint,1,998
+special environment application,1,701
+spoke structure,1,373
+spraying method,1,932
+ssa,1,977
+stadium roof,1,959
+staggered structure,1,1108
+state of charge,1,1176
+static strength,1,441
+statistical uncertainty,1,524
+steam generator,1,1046
+stir casting,1,1089
+stochastic programming,1,529
+strain energy,1,1058
+strength design,1,1166
+strengthening,1,477
+stress analysis,1,1173
+stress reduction,1,1200
+solution space,1,640
+solid state joining,1,889
+serpentine channel plate,1,370
+smart structure,1,1023
+sfe canister,1,719
+shallow network,1,819
+shape performance coupling,1,1069
+shape sensing,1,455
+shell with cut out,1,699
+shield tunnel,1,816
+ship,1,582
+short channel effect,1,836
+si,1,926
+silicon photonics,1,633
+silicone rubber elastic button,1,1077
+similarity measure optimization,1,811
+similarity prediction model,1,984
+simp,1,821
+simple linear regression,1,1126
+simufact software,1,424
+simultaneous superior stiffness and toughness,1,539
+single point incremental collar forming,1,458
+slab,1,1015
+slime mould algorithm,1,1102
+sma,1,907
+snail shell,1,870
+lightweighting,1,593
+optical monitoring,1,1024
+eye diagram,1,647
+cross entropy,1,1183
+cross validation,1,772
+crush signal,1,418
+crushing force,1,1095
+crystal plasticity,1,319
+cuckoo search,1,777
+curing,1,645
+curvilinear stiffener,1,754
+cutout,1,1031
+cutting edge profile stability,1,429
+cutting force,1,986
+cyclic hysteresis loop,1,985
+cycling performance simulation,1,853
+damage mode,1,890
+damping,1,1064
+data augmentation,1,930
+data coarsening,1,961
+data collection,1,1018
+data fusion,1,551
+de algorithm,1,981
+decision analysis,1,976
+decision fusion strategy,1,437
+deep clustering,1,587
+defect detection,1,990
+defect predication,1,940
+critical velocity,1,1033
+critical soft switching,1,781
+critical plane model,1,669
+contact force,1,476
+composite sandwich structural component,1,1120
+composite shaft,1,1076
+compressible packing model,1,660
+compression property,1,1112
+computationally expensive,1,649
+computer aided engineering,1,451
+conjugate heat transfer,1,580
+connecting bracket,1,360
+constant,1,727
+constraint handling technique,1,828
+contact analysis,1,757
+contact pressure,1,602
+crashworthy structure,1,572
+contour method,1,594
+cooling blade,1,1179
+coordinate projection,1,795
+coordination,1,1164
+copper strip,1,953
+coreless linear motor,1,734
+corner modelling,1,1124
+cost analysis,1,1184
+coupling effect of temperature and strain rate,1,326
+crack,1,800
+crane,1,1117
+delta parallel manipulator,1,801
+demonstrate,1,703
+densification,1,1154
+env modelling,1,663
+electrical contact,1,736
+electrolyte,1,857
+electromagnetic compatibility,1,595
+electromagnetic interference shielding,1,1040
+electromagnetism,1,963
+enclosure structure,1,846
+encoding,1,992
+energy removable,1,827
+enhance dislocation density,1,947
+enhanced optimal brain surgeon,1,606
+enlarged pile,1,569
+environmental pollution,1,76
+elbow exoskeleton,1,662
+eps geofoam,1,544
+evolution gym,1,897
+evolutionary learning,1,366
+expanded perlite,1,1083
+expected feasibility function,1,533
+expected improvement function,1,677
+expensive problem,1,298
+expert system,1,423
+explosion resistance,1,494
+explosive composite,1,530
+extended kalman filter,1,264
+electric breakdown,1,434
+effective strength surface,1,767
+deposition height,1,943
+directional orientation,1,574
+design history retrieval,1,626
+design recommendation,1,936
+design requirement,1,740
+design rule,1,1135
+design tactic,1,564
+design tool,1,1182
+desirability analysis,1,485
+dexterity,1,960
+diesel engine oil cooler cover,1,824
+digital morphogenesis,1,865
+direct joining,1,511
+discharge point distribution,1,971
+effective property,1,307
+discrete design variable,1,561
+displacement learning,1,347
+distributed collaborative strategy,1,1131
+duplex stainless steel,1,1084
+durability,1,724
+dynamic crushing,1,866
+dynamic strain aging,1,965
+earthquake loading,1,726
+economy,1,638
+edge extraction,1,618
+effective energy storage ratio,1,480
+composite floor,1,573
+compliant mechanism,1,718
+complex chemical process,1,952
+auxiliary sructures,1,504
+armature,1,516
+artificial configuration,1,492
+aspen plus,1,376
+assembly sequence planning,1,339
+association relationship,1,908
+attention mechanism,1,630
+automatic machine,1,498
+automatic model modeling,1,1194
+automatic relevance determination,1,392
+automotive crash,1,1082
+auxetic,1,858
+axial flow fan,1,1116
+architected material,1,686
+bayesian regularisation backpropagation,1,851
+bearing capacity experiment,1,393
+bending collapse,1,657
+bimetal,1,698
+binder,1,349
+biocomposite,1,829
+biodegradable core,1,712
+bioenergy,1,978
+bioethanol production,1,1143
+bioinspired core,1,1001
+biomaterials,1,552
+architectural geometry,1,526
+archetype,1,643
+biomimetics,1,716
+alloy wheel rim,1,256
+adaboost classifier,1,442
+adaptation model,1,818
+adhesively bonded joint,1,928
+aerial building machine,1,935
+aerodynamic load,1,678
+aeroelastic tailoring,1,784
+age hardening,1,502
+aging,1,581
+aircraft panel,1,1060
+aircraft structural part,1,974
+aircraft wing,1,167
+alm lagrange,1,505
+arbitrary geometry,1,900
+aluminum electrolysis process,1,330
+aluminum fluoride addition,1,1140
+ammonium perchlorate,1,982
+analytical target cascading,1,812
+anchor winch,1,591
+and nio,1,597
+angle between subspace,1,1032
+anisotropic prestress,1,553
+ansys acp,1,409
+application discussion,1,619
+approximate model,1,565
+biometric authentication,1,568
+bioprinted construct,1,1114
+competitive sampling,1,577
+chemical composition,1,521
+cellular phone folder front,1,1152
+cellular solid,1,474
+centrifugal casting,1,775
+cfetr hcsb blanket,1,449
+cfetr overloaded robot,1,457
+channel,1,345
+chaos ant colony optimization,1,337
+characteristic agent,1,743
+characteristic finite strip,1,1008
+characterization,1,793
+charging composition,1,334
+chiral auxetics,1,487
+catenary system,1,475
+chlorella pyrenoidosa,1,825
+circularity,1,324
+cladding track geometry,1,567
+clustered tensegrity structure,1,525
+cohesive force model,1,820
+cohesive zone modeling,1,616
+cold bending centre sill,1,666
+collapsible tubular mast,1,1039
+colony initial sparsification,1,758
+combinatorial approach,1,876
+common structural rule,1,710
+ccd,1,823
+cast component,1,417
+bioprinting,1,620
+breakdown strength,1,478
+blasting,1,642
+block ramp,1,625
+bmi,1,367
+bolted flange connection,1,452
+bond strength,1,901
+bonded composite repair,1,892
+bone density prediction,1,540
+boosting technique,1,522
+bracing direction optimization,1,608
+braiding process,1,1087
+brake,1,922
+bridge inspection,1,1078
+case study,1,1051
+building,1,1093
+building information modeling,1,1071
+cable force predictor,1,707
+cad cae information technology,1,668
+cae,1,765
+camshaft bearing pair,1,691
+cantilever assembly,1,329
+cantor fractal structure,1,486
+capacity fade,1,421
+carbon fibre pla,1,1127
+carbon melt polyaryletherketone,1,598
+extended simp,1,855
+fabrication robustness,1,151
+optical fiber design,1,1070
+face recognition,1,508
+linear programming,1,702
+liquid rocket engine,1,946
+litz pcb winding design,1,738
+load path,1,364
+load redistribution,1,579
+local buckling mode,1,453
+local reduced stiffness method,1,1178
+locally linear embedding,1,600
+loss optimization,1,1118
+low profile,1,628
+low rank approximation,1,708
+low velocity impact load,1,636
+lower confidence bound,1,554
+manufactured sand,1,730
+manufacturing defect,1,1026
+manufacturing deviation,1,868
+mapping relationship,1,706
+mass centre,1,1199
+material discovery,1,431
+material selection,1,164
+matlab,1,153
+matrix cracking,1,340
+maximum cut,1,288
+mean compliance maximization,1,397
+measurement,1,404
+limit state,1,496
+limit analysis,1,507
+lime rotary kiln,1,655
+knowledge assessment,1,394
+inverse lattice generator,1,1122
+inverse mc constraint boundary,1,804
+investment casting,1,656
+isothermal test,1,495
+jacket,1,308
+jenhui chang gung taiwan,1,715
+joint probability distribution,1,1098
+kinetic,1,303
+kinetics,1,312
+knockdown factor,1,769
+knowledge acquisition,1,720
+knowledge engineering,1,1096
+ablation test,1,684
+labyrinth screw pump,1,456
+laminate mechanic,1,286
+laplace equation,1,357
+laplace prior,1,1003
+lateral impact,1,432
+lds process,1,814
+lifted system notation,1,436
+light management,1,309
+lightning,1,490
+lightning rod structure,1,605
+lightning transient immunity,1,310
+medial mesh,1,378
+mem,1,413
+membership function,1,359
+neural style transfer,1,1009
+multimedia visual analysis,1,1133
+multimodal prediction method,1,1167
+multiphysics,1,671
+multiple load combination,1,1153
+multiple performance characteristic index,1,578
+n,1,927
+nacre,1,1005
+nanofabrication,1,837
+nanoindentation,1,914
+natural inspiration,1,891
+negative curvature hollow core fiber,1,879
+new research paradigm,1,1125
+mre,1,639
+nodal based shape optimisation,1,945
+node design,1,910
+nonlocal strain gradient theory,1,883
+nonuniform rational,1,1059
+normal function transformation,1,806
+northeast china,1,711
+novel,1,627
+nuclear system design,1,774
+oblique impacting,1,779
+oil tanker,1,1012
+olefin polymerization,1,1004
+multifunctional property,1,1188
+mr damper,1,713
+metal hybrid structure,1,400
+mixed spring beam element,1,721
+metallocene catalyst,1,1091
+micro heat pipe array,1,845
+micromechanics,1,762
+microplastics,1,652
+microwave design,1,682
+mid process,1,1158
+military specification,1,1067
+minimum oil film thickness,1,979
+mirror,1,1160
+mist cooling,1,994
+mixed mode bending,1,951
+modal loss factor,1,792
+moving morphable bar,1,672
+mode shape expansion,1,690
+modified couple stress parameter,1,725
+modularisation,1,381
+modularization,1,915
+modularized weight matrix,1,1132
+molecular weight prediction,1,722
+molten pool width,1,988
+mortar,1,607
+most probable point,1,601
+moth flame optimization algorithm,1,1169
+moving least square,1,1177
+inverse finite method,1,575
+intersecting joint,1,228
+interpretative structural modeling,1,499
+fused filament fabrication,1,782
+forward prediction,1,1134
+forward swept wing,1,426
+fractional order bat optimization algorithm,1,467
+fracture prediction,1,689
+frequency analysis,1,287
+frequency response,1,841
+front collector,1,596
+frontal impact,1,355
+full penetration,1,327
+function surface,1,537
+furnace,1,877
+fuzzy metric optimization,1,406
+fluid analysis,1,562
+félix candela,1,362
+gans,1,547
+gear ring processing,1,563
+geometric compensation,1,1036
+geometric constraint,1,300
+geometric deviation prediction,1,369
+geometric feature recognition,1,444
+geometric similarity,1,320
+grain structure,1,832
+graph embedding,1,276
+graph theory,1,570
+folding behavior,1,500
+flow stress,1,543
+grasshopper,1,341
+feedback control,1,755
+face sheet,1,685
+failure criterion,1,1086
+failure envelope,1,433
+failure load,1,313
+fatigue crack growth life,1,196
+fatigue limit,1,566
+fatigue reliability,1,588
+fe analysis,1,612
+fea based welding simulation,1,414
+feature,1,676
+feed,1,227
+fem simulation,1,325
+flip chip,1,1075
+ferrite number,1,422
+fiber steering,1,520
+filament winding,1,465
+film cooling,1,462
+fin,1,154
+fire,1,244
+firefly algorithm,1,250
+firmware,1,304
+flexible earth radius optimizer,1,208
+flexible joint,1,996
+flight envelope,1,548
+graphic static,1,513
+gravity,1,361
+interphase,1,315
+inherent defect,1,556
+important region,1,237
+improved dung beetle optimizer,1,283
+indentation,1,683
+individualization,1,723
+inductor design,1,550
+industrial structure upgrade,1,479
+industry foundation class,1,488
+information integration,1,391
+information theory,1,501
+information update,1,195
+infrared heating,1,515
+inherent strain,1,489
+image processing,1,1002
+injection molded direct joining,1,576
+inspection robot,1,532
+intelligent analysis,1,585
+intelligent modeling method,1,523
+intelligent system,1,528
+interaction,1,416
+interactive network dea,1,386
+interconnect,1,514
+intercooler,1,387
+interdependent parameter,1,854
+internal force analysis,1,919
+impeller,1,770
+ii,1,1054
+gray relational analysis,1,788
+hibiscus,1,351
+green environment,1,491
+grid shell structure,1,558
+grinding machine,1,924
+gripping system,1,658
+guided denoising diffusion,1,401
+gun turret,1,589
+hardening behavior,1,305
+heat spreading,1,385
+herringbone grooved journal bearing,1,732
+heterogeneous data,1,1053
+hexagonal trigger,1,1174
+high speed train gearbox,1,371
+ifc extension,1,211
+high throughput,1,238
+hog,1,380
+hollow conductor,1,301
+hollow inorganic microsphere,1,531
+homology,1,880
+horizontal continuous casting,1,902
+hot flow forming,1,408
+human motion recognition,1,177
+hybrid mechanic model,1,503
+hyperbolic paraboloid,1,343
+hyperparameter tuning,1,471
+zirconium diboride,1,604
